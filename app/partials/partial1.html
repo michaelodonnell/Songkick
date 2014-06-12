@@ -1,0 +1,53 @@
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-md-2">
+      <!--Sidebar content-->
+
+      <p class="list">
+        Search: <input ng-model="query">
+        <br />
+        <br />
+        Sort by:
+        <select ng-model="orderProp">
+          <option value="popularity">Popularity</option>
+          <option value="displayName">Alphabetical</option>
+          <option value="start.date">Date</option>
+        </select>
+        <br />
+        <br />
+        Select Location:
+        <!-- <select ng-model="selectedLocation" ng-options="location.city.displayName for location in locations.resultsPage.results.location"> //-->
+        <select ng-model="selectedLocation">
+          <option value="82.124.24.137">Paris</option>131.228.17.26
+          <option value="89.101.134.181">Dublin</option>
+          <option value="131.228.17.26">London</option>
+          <option value="72.229.28.185">NYC</option>
+        </select>
+        <br />
+        <br />
+        Select Dates:
+        <input type="daterange" ng-model="dateRange">
+        {{dateRange.startDate}}
+      </p>
+
+    </div>
+    <div class="col-md-10">
+      <!--Body content-->
+
+      <ul class="phones">
+        <li ng-repeat="concert in concerts.resultsPage.results.event | filter:query | filter:selectedLocation.metroArea.id | orderBy:orderProp" class="list">
+          <a href="{{concert.uri}}" target="_blank" class="list">{{concert.displayName}}</a>
+          <br />
+          {{concert.location.city}}
+          <br />
+          {{concert.start.date | date:'EEEE, MMMM d'}}
+          <br />
+          {{concert.type}}
+          <br />
+          <br />
+        </li>
+      </ul>
+
+    </div>
+  </div>
+</div>

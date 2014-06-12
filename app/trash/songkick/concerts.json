@@ -1,0 +1,3871 @@
+{
+  "resultsPage": {
+    "status": "ok",
+    "results": {
+      "event": [
+        {
+          "type": "Festival",
+          "series": {
+            "displayName": "\"Appart et en Duo Tour \""
+          },
+          "ageRestriction": null,
+          "status": "ok",
+          "displayName": "\"Appart et en Duo Tour \" 2014",
+          "start": {
+            "time": null,
+            "date": "2014-05-09",
+            "datetime": null
+          },
+          "end": {
+            "time": null,
+            "date": "2014-07-31",
+            "datetime": null
+          },
+          "location": {
+            "city": "Paris, France",
+            "lat": 48.8667,
+            "lng": 2.33333
+          },
+          "popularity": 0.0000010,
+          "uri": "http://www.songkick.com/festivals/1035638/id/20503348-appart-et-en-duo-tour--2014?utm_source=27998&utm_medium=partner",
+          "id": 20503348,
+          "performance": [
+            {
+              "billingIndex": 1,
+              "billing": "headline",
+              "displayName": "Charlotte Azzouz",
+              "id": 40823673,
+              "artist": {
+                "displayName": "Charlotte Azzouz",
+                "identifier": [],
+                "uri": "http://www.songkick.com/artists/7508444-charlotte-azzouz?utm_source=27998&utm_medium=partner",
+                "id": 7508444
+              }
+            }
+          ],
+          "venue": {
+            "metroArea": {
+              "displayName": "Paris",
+              "country": {
+                "displayName": "France"
+              },
+              "uri": "http://www.songkick.com/metro_areas/28909-france-paris?utm_source=27998&utm_medium=partner",
+              "id": 28909
+            },
+            "displayName": "Unknown venue",
+            "lat": null,
+            "lng": null,
+            "uri": null,
+            "id": null
+          }
+        },
+        {
+          "type": "Festival",
+          "series": {
+            "displayName": "Humanist S.K Festival"
+          },
+          "status": "ok",
+          "displayName": "Humanist S.K Festival 2014",
+          "ageRestriction": null,
+          "start": {
+            "time": null,
+            "date": "2014-05-26",
+            "datetime": null
+          },
+          "end": {
+            "time": null,
+            "date": "2014-06-21",
+            "datetime": null
+          },
+          "location": {
+            "city": "Paris, France",
+            "lat": 48.8667,
+            "lng": 2.33333
+          },
+          "popularity": 0.0000030,
+          "uri": "http://www.songkick.com/festivals/1028023/id/20472338-humanist-sk-festival-2014?utm_source=27998&utm_medium=partner",
+          "id": 20472338,
+          "performance": [
+            {
+              "billingIndex": 1,
+              "displayName": "Sathönay",
+              "billing": "headline",
+              "id": 40756623,
+              "artist": {
+                "displayName": "Sathönay",
+                "identifier": [],
+                "uri": "http://www.songkick.com/artists/4966563-sathonay?utm_source=27998&utm_medium=partner",
+                "id": 4966563
+              }
+            }
+          ],
+          "venue": {
+            "metroArea": {
+              "displayName": "Paris",
+              "country": {
+                "displayName": "France"
+              },
+              "uri": "http://www.songkick.com/metro_areas/28909-france-paris?utm_source=27998&utm_medium=partner",
+              "id": 28909
+            },
+            "displayName": "Unknown venue",
+            "lat": null,
+            "lng": null,
+            "uri": null,
+            "id": null
+          }
+        },
+        {
+          "type": "Festival",
+          "popularity": 0.033735,
+          "status": "ok",
+          "displayName": "Weather Festival 2014",
+          "start": {
+            "time": null,
+            "date": "2014-06-06",
+            "datetime": null
+          },
+          "end": {
+            "time": null,
+            "date": "2014-06-09",
+            "datetime": null
+          },
+          "location": {
+            "city": "Paris, France",
+            "lat": 48.8667,
+            "lng": 2.33333
+          },
+          "uri": "http://www.songkick.com/festivals/730574/id/19571024-weather-festival-2014?utm_source=27998&utm_medium=partner",
+          "id": 19571024,
+          "performance": [
+            {
+              "billingIndex": 1,
+              "billing": "headline",
+              "displayName": "Mount Kimbie",
+              "id": 38850214,
+              "artist": {
+                "displayName": "Mount Kimbie",
+                "identifier": [
+                  {
+                    "mbid": "4a3a5fc0-af4b-4990-957b-8d94f7bfe706",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:4a3a5fc0-af4b-4990-957b-8d94f7bfe706.json"
+                  }
+                ],
+                "uri": "http://www.songkick.com/artists/2444656-mount-kimbie?utm_source=27998&utm_medium=partner",
+                "id": 2444656
+              }
+            },
+            {
+              "billingIndex": 2,
+              "billing": "headline",
+              "displayName": "Ricardo Villalobos",
+              "id": 38850339,
+              "artist": {
+                "displayName": "Ricardo Villalobos",
+                "identifier": [
+                  {
+                    "mbid": "bbd79854-df54-4c1b-b7d6-cf7eea2d0afb",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:bbd79854-df54-4c1b-b7d6-cf7eea2d0afb.json"
+                  }
+                ],
+                "uri": "http://www.songkick.com/artists/208216-ricardo-villalobos?utm_source=27998&utm_medium=partner",
+                "id": 208216
+              }
+            },
+            {
+              "billingIndex": 3,
+              "billing": "headline",
+              "displayName": "Floating Points",
+              "id": 38850274,
+              "artist": {
+                "displayName": "Floating Points",
+                "identifier": [
+                  {
+                    "mbid": "69d9c5ba-7bba-4cb7-ab32-8ccc48ad4f97",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:69d9c5ba-7bba-4cb7-ab32-8ccc48ad4f97.json"
+                  }
+                ],
+                "uri": "http://www.songkick.com/artists/2486306-floating-points?utm_source=27998&utm_medium=partner",
+                "id": 2486306
+              }
+            },
+            {
+              "billingIndex": 4,
+              "billing": "headline",
+              "displayName": "Seth Troxler",
+              "id": 38850359,
+              "artist": {
+                "displayName": "Seth Troxler",
+                "identifier": [
+                  {
+                    "mbid": "d701634c-95a1-4244-92d6-903113bd79d3",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:d701634c-95a1-4244-92d6-903113bd79d3.json"
+                  }
+                ],
+                "uri": "http://www.songkick.com/artists/2328789-seth-troxler?utm_source=27998&utm_medium=partner",
+                "id": 2328789
+              }
+            },
+            {
+              "billingIndex": 5,
+              "billing": "headline",
+              "displayName": "Moodymann",
+              "id": 38850324,
+              "artist": {
+                "displayName": "Moodymann",
+                "identifier": [
+                  {
+                    "mbid": "17d69e72-9cf2-496f-aa64-ba238de2087e",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:17d69e72-9cf2-496f-aa64-ba238de2087e.json"
+                  }
+                ],
+                "uri": "http://www.songkick.com/artists/339037-moodymann?utm_source=27998&utm_medium=partner",
+                "id": 339037
+              }
+            },
+            {
+              "billingIndex": 6,
+              "billing": "headline",
+              "displayName": "Motor City Drum Ensemble",
+              "id": 38850329,
+              "artist": {
+                "displayName": "Motor City Drum Ensemble",
+                "identifier": [
+                  {
+                    "mbid": "0323f501-4b5e-4682-a062-e60f6212f9c3",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:0323f501-4b5e-4682-a062-e60f6212f9c3.json"
+                  }
+                ],
+                "uri": "http://www.songkick.com/artists/1678228-motor-city-drum-ensemble?utm_source=27998&utm_medium=partner",
+                "id": 1678228
+              }
+            },
+            {
+              "billingIndex": 7,
+              "billing": "headline",
+              "displayName": "Ben Klock",
+              "id": 38850239,
+              "artist": {
+                "displayName": "Ben Klock",
+                "identifier": [
+                  {
+                    "mbid": "c5af0c3f-e401-43ed-a096-b504606a05cb",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:c5af0c3f-e401-43ed-a096-b504606a05cb.json"
+                  }
+                ],
+                "uri": "http://www.songkick.com/artists/286113-ben-klock?utm_source=27998&utm_medium=partner",
+                "id": 286113
+              }
+            },
+            {
+              "billingIndex": 8,
+              "billing": "headline",
+              "displayName": "Marcel Dettmann",
+              "id": 38850309,
+              "artist": {
+                "displayName": "Marcel Dettmann",
+                "identifier": [
+                  {
+                    "mbid": "6d7238a1-f0bc-4408-93fc-8ec64c06f7af",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:6d7238a1-f0bc-4408-93fc-8ec64c06f7af.json"
+                  }
+                ],
+                "uri": "http://www.songkick.com/artists/2327706-marcel-dettmann?utm_source=27998&utm_medium=partner",
+                "id": 2327706
+              }
+            },
+            {
+              "billingIndex": 9,
+              "billing": "headline",
+              "displayName": "Derrick May",
+              "id": 38850259,
+              "artist": {
+                "displayName": "Derrick May",
+                "identifier": [
+                  {
+                    "mbid": "371c8525-8111-4497-83ba-1ead9d7ed148",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:371c8525-8111-4497-83ba-1ead9d7ed148.json"
+                  }
+                ],
+                "uri": "http://www.songkick.com/artists/101512-derrick-may?utm_source=27998&utm_medium=partner",
+                "id": 101512
+              }
+            },
+            {
+              "billingIndex": 10,
+              "billing": "headline",
+              "displayName": "Chris Liebing",
+              "id": 38850254,
+              "artist": {
+                "displayName": "Chris Liebing",
+                "identifier": [
+                  {
+                    "mbid": "86a1c458-2d97-42cd-a142-a8fee30ae4a1",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:86a1c458-2d97-42cd-a142-a8fee30ae4a1.json"
+                  }
+                ],
+                "uri": "http://www.songkick.com/artists/443529-chris-liebing?utm_source=27998&utm_medium=partner",
+                "id": 443529
+              }
+            },
+            {
+              "billingIndex": 11,
+              "billing": "headline",
+              "displayName": "Len Faki",
+              "id": 38850289,
+              "artist": {
+                "displayName": "Len Faki",
+                "identifier": [
+                  {
+                    "mbid": "220f98db-2c1a-4c0c-a2d6-eebcc139d53c",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:220f98db-2c1a-4c0c-a2d6-eebcc139d53c.json"
+                  }
+                ],
+                "uri": "http://www.songkick.com/artists/774285-len-faki?utm_source=27998&utm_medium=partner",
+                "id": 774285
+              }
+            },
+            {
+              "billingIndex": 12,
+              "billing": "headline",
+              "displayName": "Terence Fixmer",
+              "id": 38850374,
+              "artist": {
+                "displayName": "Terence Fixmer",
+                "identifier": [
+                  {
+                    "mbid": "7aa4d5d2-0c05-4769-b9b6-030fda34c045",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:7aa4d5d2-0c05-4769-b9b6-030fda34c045.json"
+                  }
+                ],
+                "uri": "http://www.songkick.com/artists/136993-terence-fixmer?utm_source=27998&utm_medium=partner",
+                "id": 136993
+              }
+            },
+            {
+              "billingIndex": 13,
+              "billing": "headline",
+              "displayName": "Onur Özer",
+              "id": 38850334,
+              "artist": {
+                "displayName": "Onur Özer",
+                "identifier": [
+                  {
+                    "mbid": "e9e50404-37c5-417c-8040-8c0a3fce8378",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:e9e50404-37c5-417c-8040-8c0a3fce8378.json"
+                  }
+                ],
+                "uri": "http://www.songkick.com/artists/2321211-onur-ozer?utm_source=27998&utm_medium=partner",
+                "id": 2321211
+              }
+            },
+            {
+              "billingIndex": 14,
+              "billing": "headline",
+              "displayName": "Marcel Fengler",
+              "id": 38850314,
+              "artist": {
+                "displayName": "Marcel Fengler",
+                "identifier": [
+                  {
+                    "mbid": "48973472-aad2-4fd4-b421-3a9328d92886",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:48973472-aad2-4fd4-b421-3a9328d92886.json"
+                  }
+                ],
+                "uri": "http://www.songkick.com/artists/1403377-marcel-fengler?utm_source=27998&utm_medium=partner",
+                "id": 1403377
+              }
+            },
+            {
+              "billingIndex": 15,
+              "billing": "headline",
+              "displayName": "Margaret Dygas",
+              "id": 38850319,
+              "artist": {
+                "displayName": "Margaret Dygas",
+                "identifier": [
+                  {
+                    "mbid": "5d97692e-d1ce-40c9-8395-44d85d51ba15",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:5d97692e-d1ce-40c9-8395-44d85d51ba15.json"
+                  }
+                ],
+                "uri": "http://www.songkick.com/artists/950937-margaret-dygas?utm_source=27998&utm_medium=partner",
+                "id": 950937
+              }
+            },
+            {
+              "billingIndex": 16,
+              "billing": "headline",
+              "displayName": "DJ Deep",
+              "id": 38850264,
+              "artist": {
+                "displayName": "DJ Deep",
+                "identifier": [
+                  {
+                    "mbid": "c0a3281d-0911-4867-a26e-bf8b9c37163b",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:c0a3281d-0911-4867-a26e-bf8b9c37163b.json"
+                  },
+                  {
+                    "mbid": "f8c9cd9f-18d9-4687-98ac-3102e31b9e51",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:f8c9cd9f-18d9-4687-98ac-3102e31b9e51.json"
+                  }
+                ],
+                "uri": "http://www.songkick.com/artists/412147-dj-deep?utm_source=27998&utm_medium=partner",
+                "id": 412147
+              }
+            },
+            {
+              "billingIndex": 17,
+              "billing": "headline",
+              "displayName": "Antigone",
+              "id": 38850229,
+              "artist": {
+                "displayName": "Antigone",
+                "identifier": [
+                  {
+                    "mbid": "41e460cd-b8ff-4266-a083-2b1c8aab2aa9",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:41e460cd-b8ff-4266-a083-2b1c8aab2aa9.json"
+                  },
+                  {
+                    "mbid": "72b1ec9e-6f26-4cd5-bd76-ea3c72a261e9",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:72b1ec9e-6f26-4cd5-bd76-ea3c72a261e9.json"
+                  }
+                ],
+                "uri": "http://www.songkick.com/artists/773383-antigone?utm_source=27998&utm_medium=partner",
+                "id": 773383
+              }
+            },
+            {
+              "billingIndex": 18,
+              "billing": "headline",
+              "displayName": "Apollonia",
+              "id": 38850209,
+              "artist": {
+                "displayName": "Apollonia",
+                "identifier": [
+                  {
+                    "mbid": "45bb079b-7548-45c0-b0d0-a27d1c5d630e",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:45bb079b-7548-45c0-b0d0-a27d1c5d630e.json"
+                  }
+                ],
+                "uri": "http://www.songkick.com/artists/175148-apollonia?utm_source=27998&utm_medium=partner",
+                "id": 175148
+              }
+            },
+            {
+              "billingIndex": 19,
+              "billing": "headline",
+              "displayName": "Cabanne",
+              "id": 38850249,
+              "artist": {
+                "displayName": "Cabanne",
+                "identifier": [
+                  {
+                    "mbid": "449641d8-f1a2-4dcb-9829-388d91d932f1",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:449641d8-f1a2-4dcb-9829-388d91d932f1.json"
+                  }
+                ],
+                "uri": "http://www.songkick.com/artists/2344629-cabanne?utm_source=27998&utm_medium=partner",
+                "id": 2344629
+              }
+            },
+            {
+              "billingIndex": 20,
+              "billing": "headline",
+              "displayName": "Donato Dozzy",
+              "id": 38850269,
+              "artist": {
+                "displayName": "Donato Dozzy",
+                "identifier": [
+                  {
+                    "mbid": "4a2a0d6b-d871-400b-8d61-bf544854bdf6",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:4a2a0d6b-d871-400b-8d61-bf544854bdf6.json"
+                  }
+                ],
+                "uri": "http://www.songkick.com/artists/1989454-donato-dozzy?utm_source=27998&utm_medium=partner",
+                "id": 1989454
+              }
+            },
+            {
+              "billingIndex": 21,
+              "billing": "headline",
+              "displayName": "Rødhåd",
+              "id": 38850344,
+              "artist": {
+                "displayName": "Rødhåd",
+                "identifier": [],
+                "uri": "http://www.songkick.com/artists/3646216-rodhad?utm_source=27998&utm_medium=partner",
+                "id": 3646216
+              }
+            },
+            {
+              "billingIndex": 22,
+              "billing": "headline",
+              "displayName": "Sonja Moonear",
+              "id": 38850364,
+              "artist": {
+                "displayName": "Sonja Moonear",
+                "identifier": [
+                  {
+                    "mbid": "d6c86545-6fae-41b0-be0c-7a614190360b",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:d6c86545-6fae-41b0-be0c-7a614190360b.json"
+                  }
+                ],
+                "uri": "http://www.songkick.com/artists/2495671-sonja-moonear?utm_source=27998&utm_medium=partner",
+                "id": 2495671
+              }
+            },
+            {
+              "billingIndex": 23,
+              "billing": "headline",
+              "displayName": "Zip",
+              "id": 38850394,
+              "artist": {
+                "displayName": "Zip",
+                "identifier": [
+                  {
+                    "mbid": "c3c3f039-0897-44ea-a5e9-389371b07313",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:c3c3f039-0897-44ea-a5e9-389371b07313.json"
+                  },
+                  {
+                    "mbid": "55cc2274-c7ce-483d-aac6-1db9143f5296",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:55cc2274-c7ce-483d-aac6-1db9143f5296.json"
+                  },
+                  {
+                    "mbid": "835f4d04-d18c-4fe6-a535-972518f983a3",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:835f4d04-d18c-4fe6-a535-972518f983a3.json"
+                  },
+                  {
+                    "mbid": "372cc951-f6b8-4f3d-9e89-c9e945a47fac",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:372cc951-f6b8-4f3d-9e89-c9e945a47fac.json"
+                  },
+                  {
+                    "mbid": "66c5ce96-ebc8-464d-a876-263233158c17",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:66c5ce96-ebc8-464d-a876-263233158c17.json"
+                  }
+                ],
+                "uri": "http://www.songkick.com/artists/429060-zip?utm_source=27998&utm_medium=partner",
+                "id": 429060
+              }
+            },
+            {
+              "billingIndex": 24,
+              "billing": "headline",
+              "displayName": "François X",
+              "id": 38850279,
+              "artist": {
+                "displayName": "François X",
+                "identifier": [],
+                "uri": "http://www.songkick.com/artists/3696366-francois-x?utm_source=27998&utm_medium=partner",
+                "id": 3696366
+              }
+            },
+            {
+              "billingIndex": 25,
+              "billing": "headline",
+              "displayName": "Lowris",
+              "id": 38850294,
+              "artist": {
+                "displayName": "Lowris",
+                "identifier": [],
+                "uri": "http://www.songkick.com/artists/5420383-lowris?utm_source=27998&utm_medium=partner",
+                "id": 5420383
+              }
+            },
+            {
+              "billingIndex": 26,
+              "billing": "headline",
+              "displayName": "S3A",
+              "id": 38850354,
+              "artist": {
+                "displayName": "S3A",
+                "identifier": [],
+                "uri": "http://www.songkick.com/artists/6132449-s3a?utm_source=27998&utm_medium=partner",
+                "id": 6132449
+              }
+            },
+            {
+              "billingIndex": 27,
+              "billing": "headline",
+              "displayName": "The Three Chairs",
+              "id": 38850389,
+              "artist": {
+                "displayName": "The Three Chairs",
+                "identifier": [],
+                "uri": "http://www.songkick.com/artists/6362289-three-chairs?utm_source=27998&utm_medium=partner",
+                "id": 6362289
+              }
+            },
+            {
+              "billingIndex": 28,
+              "billing": "headline",
+              "displayName": "Hold Youth",
+              "id": 38850284,
+              "artist": {
+                "displayName": "Hold Youth",
+                "identifier": [],
+                "uri": "http://www.songkick.com/artists/7738599-hold-youth?utm_source=27998&utm_medium=partner",
+                "id": 7738599
+              }
+            },
+            {
+              "billingIndex": 29,
+              "billing": "headline",
+              "displayName": "RPR Soundsystem: Raresh, Petre Inspirescu, Rhadoo",
+              "id": 38850349,
+              "artist": {
+                "displayName": "RPR Soundsystem: Raresh, Petre Inspirescu, Rhadoo",
+                "identifier": [],
+                "uri": "http://www.songkick.com/artists/7819914-rpr-soundsystem-raresh-petre-inspirescu-rhadoo?utm_source=27998&utm_medium=partner",
+                "id": 7819914
+              }
+            },
+            {
+              "billingIndex": 30,
+              "billing": "headline",
+              "displayName": "Ben Vedren (live)",
+              "id": 38850244,
+              "artist": {
+                "displayName": "Ben Vedren (live)",
+                "identifier": [],
+                "uri": "http://www.songkick.com/artists/7819904-ben-vedren-live?utm_source=27998&utm_medium=partner",
+                "id": 7819904
+              }
+            },
+            {
+              "billingIndex": 31,
+              "billing": "headline",
+              "displayName": "Zadig Live",
+              "id": 38850384,
+              "artist": {
+                "displayName": "Zadig Live",
+                "identifier": [],
+                "uri": "http://www.songkick.com/artists/6908514-zadig-live?utm_source=27998&utm_medium=partner",
+                "id": 6908514
+              }
+            },
+            {
+              "billingIndex": 32,
+              "billing": "headline",
+              "displayName": "Behzad & Amarou",
+              "id": 38850234,
+              "artist": {
+                "displayName": "Behzad & Amarou",
+                "identifier": [],
+                "uri": "http://www.songkick.com/artists/7819899-behzad-and-amarou?utm_source=27998&utm_medium=partner",
+                "id": 7819899
+              }
+            },
+            {
+              "billingIndex": 33,
+              "billing": "headline",
+              "displayName": "Luke Slater presents Planetary Assault Systems (live)",
+              "id": 38850299,
+              "artist": {
+                "displayName": "Luke Slater presents Planetary Assault Systems (live)",
+                "identifier": [],
+                "uri": "http://www.songkick.com/artists/7819909-luke-slater-presents-planetary-assault-systems-live?utm_source=27998&utm_medium=partner",
+                "id": 7819909
+              }
+            },
+            {
+              "billingIndex": 34,
+              "billing": "headline",
+              "displayName": "Underground Resistance presents TIMELINE (live)",
+              "id": 38850224,
+              "artist": {
+                "displayName": "Underground Resistance presents TIMELINE (live)",
+                "identifier": [],
+                "uri": "http://www.songkick.com/artists/7819894-underground-resistance-presents-timeline-live?utm_source=27998&utm_medium=partner",
+                "id": 7819894
+              }
+            },
+            {
+              "billingIndex": 35,
+              "billing": "headline",
+              "displayName": "Soundstream (live)",
+              "id": 38850369,
+              "artist": {
+                "displayName": "Soundstream (live)",
+                "identifier": [],
+                "uri": "http://www.songkick.com/artists/7819919-soundstream-live?utm_source=27998&utm_medium=partner",
+                "id": 7819919
+              }
+            },
+            {
+              "billingIndex": 36,
+              "billing": "headline",
+              "displayName": "Moritz von Oswald Trio feat Tony Allen & Max Loderbauer (live)",
+              "id": 38850219,
+              "artist": {
+                "displayName": "Moritz von Oswald Trio feat Tony Allen & Max Loderbauer (live)",
+                "identifier": [],
+                "uri": "http://www.songkick.com/artists/7819889-moritz-von-oswald-trio-feat-tony-allen-and-max-loderbauer-live?utm_source=27998&utm_medium=partner",
+                "id": 7819889
+              }
+            },
+            {
+              "billingIndex": 37,
+              "billing": "headline",
+              "displayName": "The Driver Aka Manu Le Malin",
+              "id": 38850304,
+              "artist": {
+                "displayName": "The Driver Aka Manu Le Malin",
+                "identifier": [],
+                "uri": "http://www.songkick.com/artists/5839804-driver-aka-manu-le-malin?utm_source=27998&utm_medium=partner",
+                "id": 5839804
+              }
+            },
+            {
+              "billingIndex": 38,
+              "billing": "headline",
+              "displayName": "Trade (Surgeon & Blawan)",
+              "id": 38850379,
+              "artist": {
+                "displayName": "Trade (Surgeon & Blawan)",
+                "identifier": [],
+                "uri": "http://www.songkick.com/artists/7819924-trade-surgeon-and-blawan?utm_source=27998&utm_medium=partner",
+                "id": 7819924
+              }
+            }
+          ],
+          "series": {
+            "displayName": "Weather Festival"
+          },
+          "venue": {
+            "metroArea": {
+              "displayName": "Paris",
+              "country": {
+                "displayName": "France"
+              },
+              "uri": "http://www.songkick.com/metro_areas/28909-france-paris?utm_source=27998&utm_medium=partner",
+              "id": 28909
+            },
+            "displayName": "Parc Des Expositions Du Bourget",
+            "lat": null,
+            "lng": null,
+            "uri": "http://www.songkick.com/venues/77897-parc-des-expositions-du-bourget?utm_source=27998&utm_medium=partner",
+            "id": 77897
+          },
+          "ageRestriction": null
+        },
+        {
+          "type": "Festival",
+          "popularity": 0.000663,
+          "status": "ok",
+          "displayName": "Village Label 2014",
+          "start": {
+            "time": null,
+            "date": "2014-06-07",
+            "datetime": null
+          },
+          "end": {
+            "time": null,
+            "date": "2014-06-08",
+            "datetime": null
+          },
+          "location": {
+            "city": "Paris, France",
+            "lat": 48.892531,
+            "lng": 2.390499
+          },
+          "uri": "http://www.songkick.com/festivals/1062628/id/20810623-village-label-2014?utm_source=27998&utm_medium=partner",
+          "id": 20810623,
+          "performance": [
+            {
+              "billingIndex": 1,
+              "billing": "headline",
+              "displayName": "Milan",
+              "id": 41482028,
+              "artist": {
+                "displayName": "Milan",
+                "identifier": [
+                  {
+                    "mbid": "c17b19af-12e5-4f50-a33c-35a29f1f8010",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:c17b19af-12e5-4f50-a33c-35a29f1f8010.json"
+                  }
+                ],
+                "uri": "http://www.songkick.com/artists/178113-milan?utm_source=27998&utm_medium=partner",
+                "id": 178113
+              }
+            },
+            {
+              "billingIndex": 2,
+              "billing": "headline",
+              "displayName": "Alligator",
+              "id": 41482033,
+              "artist": {
+                "displayName": "Alligator",
+                "identifier": [
+                  {
+                    "mbid": "3a58a83a-5b59-4be9-aab2-97685c78dd63",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:3a58a83a-5b59-4be9-aab2-97685c78dd63.json"
+                  },
+                  {
+                    "mbid": "676f678f-a499-40d6-858e-1e0e517db126",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:676f678f-a499-40d6-858e-1e0e517db126.json"
+                  }
+                ],
+                "uri": "http://www.songkick.com/artists/26579-alligator?utm_source=27998&utm_medium=partner",
+                "id": 26579
+              }
+            },
+            {
+              "billingIndex": 3,
+              "billing": "headline",
+              "displayName": "Oiseaux-Tempête",
+              "id": 41481998,
+              "artist": {
+                "displayName": "Oiseaux-Tempête",
+                "identifier": [],
+                "uri": "http://www.songkick.com/artists/7181279-oiseauxtempete?utm_source=27998&utm_medium=partner",
+                "id": 7181279
+              }
+            },
+            {
+              "billingIndex": 4,
+              "billing": "headline",
+              "displayName": "Seabuckthorn",
+              "id": 41482023,
+              "artist": {
+                "displayName": "Seabuckthorn",
+                "identifier": [],
+                "uri": "http://www.songkick.com/artists/2612376-seabuckthorn?utm_source=27998&utm_medium=partner",
+                "id": 2612376
+              }
+            },
+            {
+              "billingIndex": 5,
+              "billing": "headline",
+              "displayName": "Headwar",
+              "id": 41482003,
+              "artist": {
+                "displayName": "Headwar",
+                "identifier": [
+                  {
+                    "mbid": "d9e0b1bd-c3c8-4a16-bf11-619e271d0a99",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:d9e0b1bd-c3c8-4a16-bf11-619e271d0a99.json"
+                  }
+                ],
+                "uri": "http://www.songkick.com/artists/1359521-headwar?utm_source=27998&utm_medium=partner",
+                "id": 1359521
+              }
+            },
+            {
+              "billingIndex": 6,
+              "billing": "headline",
+              "displayName": "Dame Blanche",
+              "id": 41482038,
+              "artist": {
+                "displayName": "Dame Blanche",
+                "identifier": [],
+                "uri": "http://www.songkick.com/artists/3497146-dame-blanche?utm_source=27998&utm_medium=partner",
+                "id": 3497146
+              }
+            },
+            {
+              "billingIndex": 7,
+              "billing": "headline",
+              "displayName": "Alex June",
+              "id": 41482043,
+              "artist": {
+                "displayName": "Alex June",
+                "identifier": [],
+                "uri": "http://www.songkick.com/artists/7461304-alex-june?utm_source=27998&utm_medium=partner",
+                "id": 7461304
+              }
+            },
+            {
+              "billingIndex": 8,
+              "billing": "headline",
+              "displayName": "Ricky Hollywood",
+              "id": 41482008,
+              "artist": {
+                "displayName": "Ricky Hollywood",
+                "identifier": [],
+                "uri": "http://www.songkick.com/artists/4404633-ricky-hollywood?utm_source=27998&utm_medium=partner",
+                "id": 4404633
+              }
+            },
+            {
+              "billingIndex": 9,
+              "billing": "headline",
+              "displayName": "Maoupa Mazzocchetti",
+              "id": 41482013,
+              "artist": {
+                "displayName": "Maoupa Mazzocchetti",
+                "identifier": [],
+                "uri": "http://www.songkick.com/artists/8223458-maoupa-mazzocchetti?utm_source=27998&utm_medium=partner",
+                "id": 8223458
+              }
+            },
+            {
+              "billingIndex": 10,
+              "billing": "headline",
+              "displayName": "Avventur",
+              "id": 41482018,
+              "artist": {
+                "displayName": "Avventur",
+                "identifier": [],
+                "uri": "http://www.songkick.com/artists/8223463-avventur?utm_source=27998&utm_medium=partner",
+                "id": 8223463
+              }
+            }
+          ],
+          "series": {
+            "displayName": "Village Label"
+          },
+          "venue": {
+            "metroArea": {
+              "displayName": "Paris",
+              "country": {
+                "displayName": "France"
+              },
+              "uri": "http://www.songkick.com/metro_areas/28909-france-paris?utm_source=27998&utm_medium=partner",
+              "id": 28909
+            },
+            "displayName": "La Villette / Folie N6",
+            "lat": 48.892531,
+            "lng": 2.390499,
+            "uri": "http://www.songkick.com/venues/2668913-la-villette-folie-n6?utm_source=27998&utm_medium=partner",
+            "id": 2668913
+          },
+          "ageRestriction": null
+        },
+        {
+          "type": "Concert",
+          "status": "ok",
+          "displayName": "Shit Robot and Todd Tetje at Villette Sonique (June 8, 2014)",
+          "popularity": 0.009567,
+          "ageRestriction": null,
+          "start": {
+            "time": null,
+            "date": "2014-06-08",
+            "datetime": null
+          },
+          "location": {
+            "city": "Paris, France",
+            "lat": 48.8667,
+            "lng": 2.33333
+          },
+          "uri": "http://www.songkick.com/concerts/20634778-shit-robot-at-villette-sonique?utm_source=27998&utm_medium=partner",
+          "id": 20634778,
+          "performance": [
+            {
+              "billingIndex": 1,
+              "displayName": "Shit Robot",
+              "billing": "headline",
+              "id": 41115648,
+              "artist": {
+                "displayName": "Shit Robot",
+                "identifier": [
+                  {
+                    "mbid": "c3754232-e672-4055-afec-2f3f9633f864",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:c3754232-e672-4055-afec-2f3f9633f864.json"
+                  }
+                ],
+                "uri": "http://www.songkick.com/artists/503870-shit-robot?utm_source=27998&utm_medium=partner",
+                "id": 503870
+              }
+            },
+            {
+              "billingIndex": 2,
+              "displayName": "Todd Tetje",
+              "billing": "headline",
+              "id": 41115653,
+              "artist": {
+                "displayName": "Todd Tetje",
+                "identifier": [],
+                "uri": "http://www.songkick.com/artists/8173308-todd-tetje?utm_source=27998&utm_medium=partner",
+                "id": 8173308
+              }
+            }
+          ],
+          "venue": {
+            "displayName": "Villette Sonique",
+            "lat": null,
+            "metroArea": {
+              "displayName": "Paris",
+              "country": {
+                "displayName": "France"
+              },
+              "uri": "http://www.songkick.com/metro_areas/28909-france-paris?utm_source=27998&utm_medium=partner",
+              "id": 28909
+            },
+            "lng": null,
+            "uri": "http://www.songkick.com/venues/77693-villette-sonique?utm_source=27998&utm_medium=partner",
+            "id": 77693
+          }
+        },
+        {
+          "type": "Concert",
+          "popularity": 0.000024,
+          "status": "ok",
+          "displayName": "Kub, The Nextfloor, and Chimps Ahoy at Le Buzz (June 8, 2014)",
+          "start": {
+            "time": "19:00:00",
+            "date": "2014-06-08",
+            "datetime": "2014-06-08T19:00:00+0100"
+          },
+          "location": {
+            "city": "Paris, France",
+            "lat": 48.8706546,
+            "lng": 2.3787594
+          },
+          "uri": "http://www.songkick.com/concerts/20743558-kub-at-le-buzz?utm_source=27998&utm_medium=partner",
+          "id": 20743558,
+          "performance": [
+            {
+              "billingIndex": 1,
+              "billing": "headline",
+              "displayName": "Kub",
+              "id": 41352423,
+              "artist": {
+                "displayName": "Kub",
+                "identifier": [
+                  {
+                    "mbid": "978a26f6-798e-4dd7-8376-4121b64297f5",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:978a26f6-798e-4dd7-8376-4121b64297f5.json"
+                  }
+                ],
+                "uri": "http://www.songkick.com/artists/564474-kub?utm_source=27998&utm_medium=partner",
+                "id": 564474
+              }
+            },
+            {
+              "billingIndex": 2,
+              "billing": "headline",
+              "displayName": "The Nextfloor",
+              "id": 41352428,
+              "artist": {
+                "displayName": "The Nextfloor",
+                "identifier": [],
+                "uri": "http://www.songkick.com/artists/8213523-nextfloor?utm_source=27998&utm_medium=partner",
+                "id": 8213523
+              }
+            },
+            {
+              "billingIndex": 3,
+              "billing": "headline",
+              "displayName": "Chimps Ahoy",
+              "id": 41352433,
+              "artist": {
+                "displayName": "Chimps Ahoy",
+                "identifier": [],
+                "uri": "http://www.songkick.com/artists/7263189-chimps-ahoy?utm_source=27998&utm_medium=partner",
+                "id": 7263189
+              }
+            }
+          ],
+          "venue": {
+            "metroArea": {
+              "displayName": "Paris",
+              "country": {
+                "displayName": "France"
+              },
+              "uri": "http://www.songkick.com/metro_areas/28909-france-paris?utm_source=27998&utm_medium=partner",
+              "id": 28909
+            },
+            "displayName": "Le Buzz",
+            "lat": 48.8706546,
+            "lng": 2.3787594,
+            "uri": "http://www.songkick.com/venues/1122071-le-buzz?utm_source=27998&utm_medium=partner",
+            "id": 1122071
+          },
+          "ageRestriction": null
+        },
+        {
+          "type": "Concert",
+          "status": "ok",
+          "displayName": "DJ Monsta at L'etage (June 8, 2014)",
+          "popularity": 0.000026,
+          "ageRestriction": null,
+          "start": {
+            "time": "23:30:00",
+            "date": "2014-06-08",
+            "datetime": "2014-06-08T23:30:00+0100"
+          },
+          "location": {
+            "city": "Paris, France",
+            "lat": 48.8667,
+            "lng": 2.33333
+          },
+          "uri": "http://www.songkick.com/concerts/20643878-dj-monsta-at-letage?utm_source=27998&utm_medium=partner",
+          "id": 20643878,
+          "performance": [
+            {
+              "billingIndex": 1,
+              "displayName": "DJ Monsta",
+              "billing": "headline",
+              "id": 41136588,
+              "artist": {
+                "displayName": "DJ Monsta",
+                "identifier": [
+                  {
+                    "mbid": "23d589af-6dd6-4e4b-9e64-e8496be91e2d",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:23d589af-6dd6-4e4b-9e64-e8496be91e2d.json"
+                  }
+                ],
+                "uri": "http://www.songkick.com/artists/5327378-dj-monsta?utm_source=27998&utm_medium=partner",
+                "id": 5327378
+              }
+            }
+          ],
+          "venue": {
+            "displayName": "L'etage",
+            "lat": null,
+            "metroArea": {
+              "displayName": "Paris",
+              "country": {
+                "displayName": "France"
+              },
+              "uri": "http://www.songkick.com/metro_areas/28909-france-paris?utm_source=27998&utm_medium=partner",
+              "id": 28909
+            },
+            "lng": null,
+            "uri": "http://www.songkick.com/venues/594741-letage?utm_source=27998&utm_medium=partner",
+            "id": 594741
+          }
+        },
+        {
+          "type": "Concert",
+          "status": "ok",
+          "performance": [
+            {
+              "billing": "headline",
+              "artist": {
+                "identifier": [],
+                "uri": "http://www.songkick.com/artists/7626509-french-funk-federation?utm_source=27998&utm_medium=partner",
+                "displayName": "French Funk Federation",
+                "id": 7626509
+              },
+              "billingIndex": 1,
+              "displayName": "French Funk Federation",
+              "id": 40014188
+            }
+          ],
+          "venue": {
+            "lat": 48.638297,
+            "metroArea": {
+              "country": {
+                "displayName": "France"
+              },
+              "uri": "http://www.songkick.com/metro_areas/28909-france-paris?utm_source=27998&utm_medium=partner",
+              "id": 28909,
+              "displayName": "Paris"
+            },
+            "lng": 2.4112203,
+            "uri": "http://www.songkick.com/venues/58921-le-plan?utm_source=27998&utm_medium=partner",
+            "displayName": "Le Plan",
+            "id": 58921
+          },
+          "start": {
+            "time": null,
+            "date": "2014-06-08",
+            "datetime": null
+          },
+          "popularity": 0.0000060,
+          "location": {
+            "lat": 48.638297,
+            "lng": 2.4112203,
+            "city": "Ris Orangis, France"
+          },
+          "ageRestriction": null,
+          "uri": "http://www.songkick.com/concerts/20125348-french-funk-federation-at-le-plan?utm_source=27998&utm_medium=partner",
+          "id": 20125348,
+          "displayName": "French Funk Federation at Le Plan (June 8, 2014)"
+        },
+        {
+          "type": "Concert",
+          "status": "ok",
+          "displayName": "Lionel Boccara at L Aero (June 8, 2014)",
+          "popularity": 0.0000030,
+          "ageRestriction": null,
+          "start": {
+            "time": "12:30:00",
+            "date": "2014-06-08",
+            "datetime": "2014-06-08T12:30:00+0100"
+          },
+          "location": {
+            "city": "Paris, France",
+            "lat": 48.8577144,
+            "lng": 2.2775439
+          },
+          "uri": "http://www.songkick.com/concerts/20644358-lionel-boccara-at-l-aero?utm_source=27998&utm_medium=partner",
+          "id": 20644358,
+          "performance": [
+            {
+              "billingIndex": 1,
+              "displayName": "Lionel Boccara",
+              "billing": "headline",
+              "id": 41137373,
+              "artist": {
+                "displayName": "Lionel Boccara",
+                "identifier": [],
+                "uri": "http://www.songkick.com/artists/4817788-lionel-boccara?utm_source=27998&utm_medium=partner",
+                "id": 4817788
+              }
+            }
+          ],
+          "venue": {
+            "displayName": "L Aero",
+            "lat": 48.8577144,
+            "metroArea": {
+              "displayName": "Paris",
+              "country": {
+                "displayName": "France"
+              },
+              "uri": "http://www.songkick.com/metro_areas/28909-france-paris?utm_source=27998&utm_medium=partner",
+              "id": 28909
+            },
+            "lng": 2.2775439,
+            "uri": "http://www.songkick.com/venues/1558783-l-aero?utm_source=27998&utm_medium=partner",
+            "id": 1558783
+          }
+        },
+        {
+          "type": "Concert",
+          "ageRestriction": null,
+          "status": "ok",
+          "displayName": "Ruff Agressive Wawe, Samson Blond, and Jinoui at Petit Bain (June 8, 2014)",
+          "popularity": 0.0,
+          "start": {
+            "time": "18:00:00",
+            "date": "2014-06-08",
+            "datetime": "2014-06-08T18:00:00+0100"
+          },
+          "location": {
+            "city": "Paris, France",
+            "lat": 48.8297618,
+            "lng": 2.3865825
+          },
+          "uri": "http://www.songkick.com/concerts/20150678-ruff-agressive-wawe-at-petit-bain?utm_source=27998&utm_medium=partner",
+          "id": 20150678,
+          "performance": [
+            {
+              "billingIndex": 1,
+              "billing": "headline",
+              "displayName": "Ruff Agressive Wawe",
+              "id": 40070248,
+              "artist": {
+                "displayName": "Ruff Agressive Wawe",
+                "identifier": [],
+                "uri": "http://www.songkick.com/artists/6577289-ruff-agressive-wawe?utm_source=27998&utm_medium=partner",
+                "id": 6577289
+              }
+            },
+            {
+              "billingIndex": 2,
+              "billing": "headline",
+              "displayName": "Samson Blond",
+              "id": 41220698,
+              "artist": {
+                "displayName": "Samson Blond",
+                "identifier": [],
+                "uri": "http://www.songkick.com/artists/8190358-samson-blond?utm_source=27998&utm_medium=partner",
+                "id": 8190358
+              }
+            },
+            {
+              "billingIndex": 3,
+              "billing": "headline",
+              "displayName": "Jinoui",
+              "id": 41220703,
+              "artist": {
+                "displayName": "Jinoui",
+                "identifier": [],
+                "uri": "http://www.songkick.com/artists/8190363-jinoui?utm_source=27998&utm_medium=partner",
+                "id": 8190363
+              }
+            }
+          ],
+          "venue": {
+            "displayName": "Petit Bain",
+            "metroArea": {
+              "displayName": "Paris",
+              "country": {
+                "displayName": "France"
+              },
+              "uri": "http://www.songkick.com/metro_areas/28909-france-paris?utm_source=27998&utm_medium=partner",
+              "id": 28909
+            },
+            "lat": 48.8297618,
+            "lng": 2.3865825,
+            "uri": "http://www.songkick.com/venues/1370651-petit-bain?utm_source=27998&utm_medium=partner",
+            "id": 1370651
+          }
+        },
+        {
+          "type": "Concert",
+          "status": "ok",
+          "displayName": "Rebeka, S. R. Krebs, and Studio Paradise at L'Alimentation Générale (June 8, 2014)",
+          "popularity": 0.00058,
+          "ageRestriction": null,
+          "start": {
+            "time": "20:30:00",
+            "date": "2014-06-08",
+            "datetime": "2014-06-08T20:30:00+0100"
+          },
+          "location": {
+            "city": "Paris, France",
+            "lat": 48.866801,
+            "lng": 2.3742408
+          },
+          "uri": "http://www.songkick.com/concerts/20647793-rebeka-at-lalimentation-generale?utm_source=27998&utm_medium=partner",
+          "id": 20647793,
+          "performance": [
+            {
+              "billingIndex": 1,
+              "displayName": "Rebeka",
+              "billing": "headline",
+              "id": 41143798,
+              "artist": {
+                "displayName": "Rebeka",
+                "identifier": [
+                  {
+                    "mbid": "4da85f49-ee24-43d9-b03f-a213af18a9bb",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:4da85f49-ee24-43d9-b03f-a213af18a9bb.json"
+                  }
+                ],
+                "uri": "http://www.songkick.com/artists/162858-rebeka?utm_source=27998&utm_medium=partner",
+                "id": 162858
+              }
+            },
+            {
+              "billingIndex": 2,
+              "displayName": "S. R. Krebs",
+              "billing": "headline",
+              "id": 41143803,
+              "artist": {
+                "displayName": "S. R. Krebs",
+                "identifier": [],
+                "uri": "http://www.songkick.com/artists/8177798-s-r-krebs?utm_source=27998&utm_medium=partner",
+                "id": 8177798
+              }
+            },
+            {
+              "billingIndex": 3,
+              "displayName": "Studio Paradise",
+              "billing": "headline",
+              "id": 41143808,
+              "artist": {
+                "displayName": "Studio Paradise",
+                "identifier": [
+                  {
+                    "mbid": "817a787f-9731-4c9d-a58b-713ff6e461b9",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:817a787f-9731-4c9d-a58b-713ff6e461b9.json"
+                  }
+                ],
+                "uri": "http://www.songkick.com/artists/4863783-studio-paradise?utm_source=27998&utm_medium=partner",
+                "id": 4863783
+              }
+            }
+          ],
+          "venue": {
+            "displayName": "L'Alimentation Générale",
+            "lat": 48.866801,
+            "metroArea": {
+              "displayName": "Paris",
+              "country": {
+                "displayName": "France"
+              },
+              "uri": "http://www.songkick.com/metro_areas/28909-france-paris?utm_source=27998&utm_medium=partner",
+              "id": 28909
+            },
+            "lng": 2.3742408,
+            "uri": "http://www.songkick.com/venues/103835-lalimentation-generale?utm_source=27998&utm_medium=partner",
+            "id": 103835
+          }
+        },
+        {
+          "type": "Concert",
+          "ageRestriction": null,
+          "status": "ok",
+          "displayName": "Koko with Jazz Attitudes Party at New Morning (June 8, 2014)",
+          "start": {
+            "time": "17:00:00",
+            "date": "2014-06-08",
+            "datetime": "2014-06-08T17:00:00+0100"
+          },
+          "location": {
+            "city": "Paris, France",
+            "lat": 48.8732106,
+            "lng": 2.3532524
+          },
+          "popularity": 0.001394,
+          "uri": "http://www.songkick.com/concerts/20465248-koko-at-new-morning?utm_source=27998&utm_medium=partner",
+          "id": 20465248,
+          "performance": [
+            {
+              "billingIndex": 1,
+              "billing": "headline",
+              "displayName": "Koko",
+              "id": 40743518,
+              "artist": {
+                "displayName": "Koko",
+                "identifier": [
+                  {
+                    "mbid": "052f9c3a-85df-490c-bceb-0dfebe01fda1",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:052f9c3a-85df-490c-bceb-0dfebe01fda1.json"
+                  },
+                  {
+                    "mbid": "21994ce8-0e03-4449-93c6-d2ce80be594c",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:21994ce8-0e03-4449-93c6-d2ce80be594c.json"
+                  },
+                  {
+                    "mbid": "6edfaea0-70bb-427c-8fdb-724d509ece4e",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:6edfaea0-70bb-427c-8fdb-724d509ece4e.json"
+                  },
+                  {
+                    "mbid": "6abd94d4-2506-4e79-bfca-b225fcd16a7d",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:6abd94d4-2506-4e79-bfca-b225fcd16a7d.json"
+                  },
+                  {
+                    "mbid": "cbc89491-0dec-4b3f-b8f4-b2d305355012",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:cbc89491-0dec-4b3f-b8f4-b2d305355012.json"
+                  },
+                  {
+                    "mbid": "1187ead1-bf2e-432f-b40c-690b2b0bc590",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:1187ead1-bf2e-432f-b40c-690b2b0bc590.json"
+                  }
+                ],
+                "uri": "http://www.songkick.com/artists/47678-koko?utm_source=27998&utm_medium=partner",
+                "id": 47678
+              }
+            },
+            {
+              "billingIndex": 2,
+              "billing": "support",
+              "displayName": "Jazz Attitudes Party",
+              "id": 40803573,
+              "artist": {
+                "displayName": "Jazz Attitudes Party",
+                "identifier": [],
+                "uri": "http://www.songkick.com/artists/8126853-jazz-attitudes-party?utm_source=27998&utm_medium=partner",
+                "id": 8126853
+              }
+            }
+          ],
+          "venue": {
+            "metroArea": {
+              "displayName": "Paris",
+              "country": {
+                "displayName": "France"
+              },
+              "uri": "http://www.songkick.com/metro_areas/28909-france-paris?utm_source=27998&utm_medium=partner",
+              "id": 28909
+            },
+            "displayName": "New Morning",
+            "lat": 48.8732106,
+            "lng": 2.3532524,
+            "uri": "http://www.songkick.com/venues/20868-new-morning?utm_source=27998&utm_medium=partner",
+            "id": 20868
+          }
+        },
+        {
+          "type": "Concert",
+          "status": "ok",
+          "displayName": "Sebo K's Scenario with Weather Off, Sebo K, Patrice Scott, and 1 more… at Rex Club (June 8, 2014)",
+          "start": {
+            "time": "23:55:00",
+            "date": "2014-06-08",
+            "datetime": "2014-06-08T23:55:00+0100"
+          },
+          "ageRestriction": null,
+          "location": {
+            "city": "Paris, France",
+            "lat": 48.8706593,
+            "lng": 2.3472761
+          },
+          "popularity": 0.002456,
+          "uri": "http://www.songkick.com/concerts/19974423-sebo-ks-scenario-at-rex-club?utm_source=27998&utm_medium=partner",
+          "id": 19974423,
+          "performance": [
+            {
+              "billingIndex": 1,
+              "displayName": "Sebo K's Scenario",
+              "billing": "headline",
+              "id": 39703038,
+              "artist": {
+                "displayName": "Sebo K's Scenario",
+                "identifier": [],
+                "uri": "http://www.songkick.com/artists/6088599-sebo-ks-scenario?utm_source=27998&utm_medium=partner",
+                "id": 6088599
+              }
+            },
+            {
+              "billingIndex": 2,
+              "displayName": "Weather Off",
+              "billing": "support",
+              "id": 39703043,
+              "artist": {
+                "displayName": "Weather Off",
+                "identifier": [],
+                "uri": "http://www.songkick.com/artists/7953878-weather-off?utm_source=27998&utm_medium=partner",
+                "id": 7953878
+              }
+            },
+            {
+              "billingIndex": 3,
+              "displayName": "Sebo K",
+              "billing": "support",
+              "id": 39864928,
+              "artist": {
+                "displayName": "Sebo K",
+                "identifier": [
+                  {
+                    "mbid": "5a2c17bc-aac4-4470-9dbe-f4e829a79915",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:5a2c17bc-aac4-4470-9dbe-f4e829a79915.json"
+                  }
+                ],
+                "uri": "http://www.songkick.com/artists/586890-sebo-k?utm_source=27998&utm_medium=partner",
+                "id": 586890
+              }
+            },
+            {
+              "billingIndex": 4,
+              "displayName": "Patrice Scott",
+              "billing": "support",
+              "id": 39864933,
+              "artist": {
+                "displayName": "Patrice Scott",
+                "identifier": [
+                  {
+                    "mbid": "8e25a7ba-63df-4d87-a2e8-11440788ea87",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:8e25a7ba-63df-4d87-a2e8-11440788ea87.json"
+                  }
+                ],
+                "uri": "http://www.songkick.com/artists/2328415-patrice-scott?utm_source=27998&utm_medium=partner",
+                "id": 2328415
+              }
+            },
+            {
+              "billingIndex": 5,
+              "displayName": "Djebali",
+              "billing": "support",
+              "id": 39864938,
+              "artist": {
+                "displayName": "Djebali",
+                "identifier": [],
+                "uri": "http://www.songkick.com/artists/4292096-djebali?utm_source=27998&utm_medium=partner",
+                "id": 4292096
+              }
+            }
+          ],
+          "venue": {
+            "metroArea": {
+              "displayName": "Paris",
+              "country": {
+                "displayName": "France"
+              },
+              "uri": "http://www.songkick.com/metro_areas/28909-france-paris?utm_source=27998&utm_medium=partner",
+              "id": 28909
+            },
+            "displayName": "Rex Club",
+            "lat": 48.8706593,
+            "lng": 2.3472761,
+            "uri": "http://www.songkick.com/venues/46081-rex-club?utm_source=27998&utm_medium=partner",
+            "id": 46081
+          }
+        },
+        {
+          "type": "Concert",
+          "ageRestriction": null,
+          "status": "ok",
+          "displayName": "Shantelle Monique at L'etage (June 8, 2014)",
+          "start": {
+            "time": "20:00:00",
+            "date": "2014-06-08",
+            "datetime": "2014-06-08T20:00:00+0100"
+          },
+          "location": {
+            "city": "Paris, France",
+            "lat": 48.8667,
+            "lng": 2.33333
+          },
+          "popularity": 0.0,
+          "uri": "http://www.songkick.com/concerts/20543643-shantelle-monique-at-letage?utm_source=27998&utm_medium=partner",
+          "id": 20543643,
+          "performance": [
+            {
+              "billingIndex": 1,
+              "billing": "headline",
+              "displayName": "Shantelle Monique",
+              "id": 40915028,
+              "artist": {
+                "displayName": "Shantelle Monique",
+                "identifier": [],
+                "uri": "http://www.songkick.com/artists/7984878-shantelle-monique?utm_source=27998&utm_medium=partner",
+                "id": 7984878
+              }
+            }
+          ],
+          "venue": {
+            "metroArea": {
+              "displayName": "Paris",
+              "country": {
+                "displayName": "France"
+              },
+              "uri": "http://www.songkick.com/metro_areas/28909-france-paris?utm_source=27998&utm_medium=partner",
+              "id": 28909
+            },
+            "displayName": "L'etage",
+            "lat": null,
+            "lng": null,
+            "uri": "http://www.songkick.com/venues/594741-letage?utm_source=27998&utm_medium=partner",
+            "id": 594741
+          }
+        },
+        {
+          "type": "Concert",
+          "popularity": 0.00187,
+          "status": "ok",
+          "displayName": "Bang Bang and Monolythe at Glaz'art (June 8, 2014)",
+          "start": {
+            "time": "23:55:00",
+            "date": "2014-06-08",
+            "datetime": "2014-06-08T23:55:00+0100"
+          },
+          "location": {
+            "city": "Paris, France",
+            "lat": 48.8993098,
+            "lng": 2.3869681
+          },
+          "uri": "http://www.songkick.com/concerts/20681063-bang-bang-at-glazart?utm_source=27998&utm_medium=partner",
+          "id": 20681063,
+          "performance": [
+            {
+              "billingIndex": 1,
+              "billing": "headline",
+              "displayName": "Bang Bang",
+              "id": 41217763,
+              "artist": {
+                "displayName": "Bang Bang",
+                "identifier": [
+                  {
+                    "mbid": "c888d780-565c-4719-ab20-a1da73796228",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:c888d780-565c-4719-ab20-a1da73796228.json"
+                  },
+                  {
+                    "mbid": "4f4d6d1e-dd8f-4b4b-a4a5-4a324c7512ec",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:4f4d6d1e-dd8f-4b4b-a4a5-4a324c7512ec.json"
+                  },
+                  {
+                    "mbid": "a7f8b3ad-d0e0-4f95-85e1-9e73dd55bd49",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:a7f8b3ad-d0e0-4f95-85e1-9e73dd55bd49.json"
+                  },
+                  {
+                    "mbid": "4cba75fd-de31-4a38-aa50-9b1f5bacdd4d",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:4cba75fd-de31-4a38-aa50-9b1f5bacdd4d.json"
+                  },
+                  {
+                    "mbid": "a5b03e5e-4eb3-44cd-b0c0-cb93d5acf107",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:a5b03e5e-4eb3-44cd-b0c0-cb93d5acf107.json"
+                  },
+                  {
+                    "mbid": "d522acba-62eb-4f1e-b8dd-5c583a1e653b",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:d522acba-62eb-4f1e-b8dd-5c583a1e653b.json"
+                  },
+                  {
+                    "mbid": "d8610a99-21ad-4a0d-b6d5-081424d98fdb",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:d8610a99-21ad-4a0d-b6d5-081424d98fdb.json"
+                  }
+                ],
+                "uri": "http://www.songkick.com/artists/495332-bang-bang?utm_source=27998&utm_medium=partner",
+                "id": 495332
+              }
+            },
+            {
+              "billingIndex": 2,
+              "billing": "headline",
+              "displayName": "Monolythe",
+              "id": 41281998,
+              "artist": {
+                "displayName": "Monolythe",
+                "identifier": [
+                  {
+                    "mbid": "b88a036b-01ac-4e62-8246-8a3e6ad85e15",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:b88a036b-01ac-4e62-8246-8a3e6ad85e15.json"
+                  }
+                ],
+                "uri": "http://www.songkick.com/artists/891683-monolythe?utm_source=27998&utm_medium=partner",
+                "id": 891683
+              }
+            }
+          ],
+          "venue": {
+            "metroArea": {
+              "displayName": "Paris",
+              "country": {
+                "displayName": "France"
+              },
+              "uri": "http://www.songkick.com/metro_areas/28909-france-paris?utm_source=27998&utm_medium=partner",
+              "id": 28909
+            },
+            "displayName": "Glaz'art",
+            "lat": 48.8993098,
+            "lng": 2.3869681,
+            "uri": "http://www.songkick.com/venues/77756-glazart?utm_source=27998&utm_medium=partner",
+            "id": 77756
+          },
+          "ageRestriction": null
+        },
+        {
+          "type": "Concert",
+          "popularity": 0.014432,
+          "status": "ok",
+          "displayName": "Jagwar Ma at Parc De La Villette (June 8, 2014)",
+          "start": {
+            "time": "19:30:00",
+            "date": "2014-06-08",
+            "datetime": "2014-06-08T19:30:00+0100"
+          },
+          "location": {
+            "city": "Paris, France",
+            "lat": 48.8667,
+            "lng": 2.33333
+          },
+          "uri": "http://www.songkick.com/concerts/20814203-jagwar-ma-at-parc-de-la-villette?utm_source=27998&utm_medium=partner",
+          "id": 20814203,
+          "performance": [
+            {
+              "billingIndex": 1,
+              "billing": "headline",
+              "displayName": "Jagwar Ma",
+              "id": 41490103,
+              "artist": {
+                "displayName": "Jagwar Ma",
+                "identifier": [
+                  {
+                    "mbid": "5b933654-f58b-438c-8652-90567e5495a1",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:5b933654-f58b-438c-8652-90567e5495a1.json"
+                  }
+                ],
+                "uri": "http://www.songkick.com/artists/5246973-jagwar-ma?utm_source=27998&utm_medium=partner",
+                "id": 5246973
+              }
+            }
+          ],
+          "venue": {
+            "metroArea": {
+              "displayName": "Paris",
+              "country": {
+                "displayName": "France"
+              },
+              "uri": "http://www.songkick.com/metro_areas/28909-france-paris?utm_source=27998&utm_medium=partner",
+              "id": 28909
+            },
+            "displayName": "Parc De La Villette",
+            "lat": null,
+            "lng": null,
+            "uri": "http://www.songkick.com/venues/110154-parc-de-la-villette?utm_source=27998&utm_medium=partner",
+            "id": 110154
+          },
+          "ageRestriction": null
+        },
+        {
+          "type": "Concert",
+          "popularity": 0.002704,
+          "status": "ok",
+          "displayName": "Tal at Palais Des Sports (June 8, 2014)",
+          "start": {
+            "time": "17:00:00",
+            "date": "2014-06-08",
+            "datetime": "2014-06-08T17:00:00+0100"
+          },
+          "location": {
+            "city": "Paris, France",
+            "lat": 48.8325579,
+            "lng": 2.2871812
+          },
+          "uri": "http://www.songkick.com/concerts/19238434-tal-at-palais-des-sports?utm_source=27998&utm_medium=partner",
+          "id": 19238434,
+          "performance": [
+            {
+              "billingIndex": 1,
+              "billing": "headline",
+              "displayName": "Tal",
+              "id": 38172969,
+              "artist": {
+                "displayName": "Tal",
+                "identifier": [
+                  {
+                    "mbid": "f2787157-3ba4-4bdc-9024-e23949312012",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:f2787157-3ba4-4bdc-9024-e23949312012.json"
+                  },
+                  {
+                    "mbid": "92e77b31-c2f9-4faa-b4f4-dc63e5d61b02",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:92e77b31-c2f9-4faa-b4f4-dc63e5d61b02.json"
+                  },
+                  {
+                    "mbid": "0c7083e0-d1fd-426a-a663-2ee49de4093e",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:0c7083e0-d1fd-426a-a663-2ee49de4093e.json"
+                  }
+                ],
+                "uri": "http://www.songkick.com/artists/96465-tal?utm_source=27998&utm_medium=partner",
+                "id": 96465
+              }
+            }
+          ],
+          "venue": {
+            "metroArea": {
+              "displayName": "Paris",
+              "country": {
+                "displayName": "France"
+              },
+              "uri": "http://www.songkick.com/metro_areas/28909-france-paris?utm_source=27998&utm_medium=partner",
+              "id": 28909
+            },
+            "displayName": "Palais Des Sports",
+            "lat": 48.8325579,
+            "lng": 2.2871812,
+            "uri": "http://www.songkick.com/venues/383656-palais-des-sports?utm_source=27998&utm_medium=partner",
+            "id": 383656
+          },
+          "ageRestriction": null
+        },
+        {
+          "type": "Concert",
+          "ageRestriction": null,
+          "status": "ok",
+          "displayName": "Nisennenmondai at Villette Sonique (June 8, 2014)",
+          "start": {
+            "time": null,
+            "date": "2014-06-08",
+            "datetime": null
+          },
+          "location": {
+            "city": "Paris, France",
+            "lat": 48.8667,
+            "lng": 2.33333
+          },
+          "popularity": 0.001066,
+          "uri": "http://www.songkick.com/concerts/20536868-nisennenmondai-at-villette-sonique?utm_source=27998&utm_medium=partner",
+          "id": 20536868,
+          "performance": [
+            {
+              "billingIndex": 1,
+              "billing": "headline",
+              "displayName": "Nisennenmondai",
+              "id": 40902773,
+              "artist": {
+                "displayName": "Nisennenmondai",
+                "identifier": [
+                  {
+                    "mbid": "cc6b9978-e14c-4457-97c6-ce735161bef4",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:cc6b9978-e14c-4457-97c6-ce735161bef4.json"
+                  },
+                  {
+                    "mbid": "b7976061-d050-4df8-ab61-2e2bcce1477f",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:b7976061-d050-4df8-ab61-2e2bcce1477f.json"
+                  }
+                ],
+                "uri": "http://www.songkick.com/artists/1891639-nisennenmondai?utm_source=27998&utm_medium=partner",
+                "id": 1891639
+              }
+            }
+          ],
+          "venue": {
+            "metroArea": {
+              "displayName": "Paris",
+              "country": {
+                "displayName": "France"
+              },
+              "uri": "http://www.songkick.com/metro_areas/28909-france-paris?utm_source=27998&utm_medium=partner",
+              "id": 28909
+            },
+            "displayName": "Villette Sonique",
+            "lat": null,
+            "lng": null,
+            "uri": "http://www.songkick.com/venues/77693-villette-sonique?utm_source=27998&utm_medium=partner",
+            "id": 77693
+          }
+        },
+        {
+          "type": "Concert",
+          "status": "ok",
+          "ageRestriction": null,
+          "start": {
+            "time": null,
+            "date": "2014-06-08",
+            "datetime": null
+          },
+          "performance": [
+            {
+              "billing": "headline",
+              "billingIndex": 1,
+              "id": 34121274,
+              "artist": {
+                "identifier": [
+                  {
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:61f80eec-17a9-4810-8e26-f664d64da716.json",
+                    "mbid": "61f80eec-17a9-4810-8e26-f664d64da716"
+                  }
+                ],
+                "uri": "http://www.songkick.com/artists/3398226-vincent-jourde-quartet?utm_source=27998&utm_medium=partner",
+                "id": 3398226,
+                "displayName": "Vincent Jourde Quartet"
+              },
+              "displayName": "Vincent Jourde Quartet"
+            }
+          ],
+          "venue": {
+            "lat": null,
+            "lng": null,
+            "metroArea": {
+              "country": {
+                "displayName": "France"
+              },
+              "uri": "http://www.songkick.com/metro_areas/28909-france-paris?utm_source=27998&utm_medium=partner",
+              "id": 28909,
+              "displayName": "Paris"
+            },
+            "uri": "http://www.songkick.com/venues/758086-theatre-71-a-malakoff?utm_source=27998&utm_medium=partner",
+            "id": 758086,
+            "displayName": "Théâtre 71 à Malakoff"
+          },
+          "popularity": 0.0000020,
+          "location": {
+            "city": "Malakoff, France",
+            "lat": null,
+            "lng": null
+          },
+          "uri": "http://www.songkick.com/concerts/17245199-vincent-jourde-quartet-at-theatre-71-a-malakoff?utm_source=27998&utm_medium=partner",
+          "id": 17245199,
+          "displayName": "Vincent Jourde Quartet at Théâtre 71 à Malakoff (June 8, 2014)"
+        },
+        {
+          "type": "Concert",
+          "status": "ok",
+          "popularity": 0.009104,
+          "displayName": "Les 4 Saisons with Pachelbel and Canon at La Sainte Chapelle (June 8, 2014)",
+          "ageRestriction": null,
+          "start": {
+            "time": "19:00:00",
+            "date": "2014-06-08",
+            "datetime": "2014-06-08T19:00:00+0100"
+          },
+          "location": {
+            "city": "Paris, France",
+            "lat": 48.8552901,
+            "lng": 2.3458614
+          },
+          "uri": "http://www.songkick.com/concerts/19874479-les-4-saisons-at-la-sainte-chapelle?utm_source=27998&utm_medium=partner",
+          "id": 19874479,
+          "performance": [
+            {
+              "billingIndex": 1,
+              "billing": "headline",
+              "displayName": "Les 4 Saisons",
+              "id": 39485029,
+              "artist": {
+                "displayName": "Les 4 Saisons",
+                "identifier": [],
+                "uri": "http://www.songkick.com/artists/7362954-les-4-saisons?utm_source=27998&utm_medium=partner",
+                "id": 7362954
+              }
+            },
+            {
+              "billingIndex": 2,
+              "billing": "support",
+              "displayName": "Pachelbel",
+              "id": 39485034,
+              "artist": {
+                "displayName": "Pachelbel",
+                "identifier": [],
+                "uri": "http://www.songkick.com/artists/438578-pachelbel?utm_source=27998&utm_medium=partner",
+                "id": 438578
+              }
+            },
+            {
+              "billingIndex": 3,
+              "billing": "support",
+              "displayName": "Canon",
+              "id": 39485049,
+              "artist": {
+                "displayName": "Canon",
+                "identifier": [
+                  {
+                    "mbid": "6f9f478e-84d2-4e0c-b7df-39ad6350251b",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:6f9f478e-84d2-4e0c-b7df-39ad6350251b.json"
+                  },
+                  {
+                    "mbid": "a553dbee-962e-405b-8651-7a767f6bf76a",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:a553dbee-962e-405b-8651-7a767f6bf76a.json"
+                  },
+                  {
+                    "mbid": "13991a8e-17a1-4f26-ba5f-3e0be137a02a",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:13991a8e-17a1-4f26-ba5f-3e0be137a02a.json"
+                  }
+                ],
+                "uri": "http://www.songkick.com/artists/44938-canon?utm_source=27998&utm_medium=partner",
+                "id": 44938
+              }
+            }
+          ],
+          "venue": {
+            "displayName": "La Sainte Chapelle",
+            "lat": 48.8552901,
+            "lng": 2.3458614,
+            "uri": "http://www.songkick.com/venues/1168011-la-sainte-chapelle?utm_source=27998&utm_medium=partner",
+            "metroArea": {
+              "displayName": "Paris",
+              "country": {
+                "displayName": "France"
+              },
+              "uri": "http://www.songkick.com/metro_areas/28909-france-paris?utm_source=27998&utm_medium=partner",
+              "id": 28909
+            },
+            "id": 1168011
+          }
+        },
+        {
+          "type": "Concert",
+          "popularity": 0.0000090,
+          "status": "ok",
+          "displayName": "Fat Laces with Sneakers Party at Djoon (June 8, 2014)",
+          "ageRestriction": null,
+          "start": {
+            "time": "23:30:00",
+            "date": "2014-06-08",
+            "datetime": "2014-06-08T23:30:00+0100"
+          },
+          "location": {
+            "city": "Paris, France",
+            "lat": 48.8354764,
+            "lng": 2.3692754
+          },
+          "uri": "http://www.songkick.com/concerts/20627688-fat-laces-at-djoon?utm_source=27998&utm_medium=partner",
+          "id": 20627688,
+          "performance": [
+            {
+              "billingIndex": 1,
+              "displayName": "Fat Laces",
+              "billing": "headline",
+              "id": 41102768,
+              "artist": {
+                "displayName": "Fat Laces",
+                "identifier": [],
+                "uri": "http://www.songkick.com/artists/3474246-fat-laces?utm_source=27998&utm_medium=partner",
+                "id": 3474246
+              }
+            },
+            {
+              "billingIndex": 2,
+              "displayName": "Sneakers Party",
+              "billing": "support",
+              "id": 41102773,
+              "artist": {
+                "displayName": "Sneakers Party",
+                "identifier": [],
+                "uri": "http://www.songkick.com/artists/8171918-sneakers-party?utm_source=27998&utm_medium=partner",
+                "id": 8171918
+              }
+            }
+          ],
+          "venue": {
+            "displayName": "Djoon",
+            "lat": 48.8354764,
+            "metroArea": {
+              "displayName": "Paris",
+              "country": {
+                "displayName": "France"
+              },
+              "uri": "http://www.songkick.com/metro_areas/28909-france-paris?utm_source=27998&utm_medium=partner",
+              "id": 28909
+            },
+            "lng": 2.3692754,
+            "uri": "http://www.songkick.com/venues/484236-djoon?utm_source=27998&utm_medium=partner",
+            "id": 484236
+          }
+        },
+        {
+          "type": "Festival",
+          "popularity": 0.000016,
+          "status": "ok",
+          "displayName": "Village Label - Villette Sonique 2014",
+          "start": {
+            "time": null,
+            "date": "2014-06-08",
+            "datetime": null
+          },
+          "end": {
+            "time": null,
+            "date": "2014-06-08",
+            "datetime": null
+          },
+          "location": {
+            "city": "Paris, France",
+            "lat": 48.8667,
+            "lng": 2.33333
+          },
+          "uri": "http://www.songkick.com/festivals/1053243/id/20702238-village-label--villette-sonique-2014?utm_source=27998&utm_medium=partner",
+          "id": 20702238,
+          "performance": [
+            {
+              "billingIndex": 1,
+              "billing": "headline",
+              "displayName": "Seabuckthorn",
+              "id": 41259773,
+              "artist": {
+                "displayName": "Seabuckthorn",
+                "identifier": [],
+                "uri": "http://www.songkick.com/artists/2612376-seabuckthorn?utm_source=27998&utm_medium=partner",
+                "id": 2612376
+              }
+            }
+          ],
+          "series": {
+            "displayName": "Village Label - Villette Sonique"
+          },
+          "venue": {
+            "metroArea": {
+              "displayName": "Paris",
+              "country": {
+                "displayName": "France"
+              },
+              "uri": "http://www.songkick.com/metro_areas/28909-france-paris?utm_source=27998&utm_medium=partner",
+              "id": 28909
+            },
+            "displayName": "Parc De La Villette",
+            "lat": null,
+            "lng": null,
+            "uri": "http://www.songkick.com/venues/110154-parc-de-la-villette?utm_source=27998&utm_medium=partner",
+            "id": 110154
+          },
+          "ageRestriction": null
+        },
+        {
+          "type": "Concert",
+          "popularity": 0.000061,
+          "status": "ok",
+          "displayName": "Over the Earth, Former Life, The Way I Am, and Memories of a dead Man at Le Klub (June 8, 2014)",
+          "start": {
+            "time": "20:00:00",
+            "date": "2014-06-08",
+            "datetime": "2014-06-08T20:00:00+0100"
+          },
+          "location": {
+            "city": "Paris, France",
+            "lat": 48.859013,
+            "lng": 2.3478007
+          },
+          "uri": "http://www.songkick.com/concerts/20688053-over-the-earth-at-le-klub?utm_source=27998&utm_medium=partner",
+          "id": 20688053,
+          "performance": [
+            {
+              "billingIndex": 1,
+              "billing": "headline",
+              "displayName": "Over the Earth",
+              "id": 41232893,
+              "artist": {
+                "displayName": "Over the Earth",
+                "identifier": [],
+                "uri": "http://www.songkick.com/artists/5219983-over-the-earth?utm_source=27998&utm_medium=partner",
+                "id": 5219983
+              }
+            },
+            {
+              "billingIndex": 2,
+              "billing": "headline",
+              "displayName": "Former Life",
+              "id": 41232898,
+              "artist": {
+                "displayName": "Former Life",
+                "identifier": [],
+                "uri": "http://www.songkick.com/artists/4018286-former-life?utm_source=27998&utm_medium=partner",
+                "id": 4018286
+              }
+            },
+            {
+              "billingIndex": 3,
+              "billing": "headline",
+              "displayName": "The Way I Am",
+              "id": 41232903,
+              "artist": {
+                "displayName": "The Way I Am",
+                "identifier": [],
+                "uri": "http://www.songkick.com/artists/750002-way-i-am?utm_source=27998&utm_medium=partner",
+                "id": 750002
+              }
+            },
+            {
+              "billingIndex": 4,
+              "billing": "headline",
+              "displayName": "Memories of a dead Man",
+              "id": 41232908,
+              "artist": {
+                "displayName": "Memories of a dead Man",
+                "identifier": [
+                  {
+                    "mbid": "a0f7420a-6e78-46cb-8999-d957403f564d",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:a0f7420a-6e78-46cb-8999-d957403f564d.json"
+                  }
+                ],
+                "uri": "http://www.songkick.com/artists/639215-memories-of-a-dead-man?utm_source=27998&utm_medium=partner",
+                "id": 639215
+              }
+            }
+          ],
+          "venue": {
+            "metroArea": {
+              "displayName": "Paris",
+              "country": {
+                "displayName": "France"
+              },
+              "uri": "http://www.songkick.com/metro_areas/28909-france-paris?utm_source=27998&utm_medium=partner",
+              "id": 28909
+            },
+            "displayName": "Le Klub",
+            "lat": 48.859013,
+            "lng": 2.3478007,
+            "uri": "http://www.songkick.com/venues/50670-le-klub?utm_source=27998&utm_medium=partner",
+            "id": 50670
+          },
+          "ageRestriction": null
+        },
+        {
+          "type": "Concert",
+          "status": "ok",
+          "popularity": 0.0,
+          "displayName": "Nuit Villette Sonique at Cabaret Sauvage (June 8, 2014)",
+          "ageRestriction": null,
+          "start": {
+            "time": "23:00:00",
+            "date": "2014-06-08",
+            "datetime": "2014-06-08T23:00:00+0100"
+          },
+          "location": {
+            "city": "Paris, France",
+            "lat": 48.893073,
+            "lng": 2.39052
+          },
+          "uri": "http://www.songkick.com/concerts/19666119-nuit-villette-sonique-at-cabaret-sauvage?utm_source=27998&utm_medium=partner",
+          "id": 19666119,
+          "performance": [
+            {
+              "billingIndex": 1,
+              "billing": "headline",
+              "displayName": "Nuit Villette Sonique",
+              "id": 39047359,
+              "artist": {
+                "displayName": "Nuit Villette Sonique",
+                "identifier": [],
+                "uri": "http://www.songkick.com/artists/7850794-nuit-villette-sonique?utm_source=27998&utm_medium=partner",
+                "id": 7850794
+              }
+            }
+          ],
+          "venue": {
+            "displayName": "Cabaret Sauvage",
+            "lat": 48.893073,
+            "lng": 2.39052,
+            "uri": "http://www.songkick.com/venues/94311-cabaret-sauvage?utm_source=27998&utm_medium=partner",
+            "metroArea": {
+              "displayName": "Paris",
+              "country": {
+                "displayName": "France"
+              },
+              "uri": "http://www.songkick.com/metro_areas/28909-france-paris?utm_source=27998&utm_medium=partner",
+              "id": 28909
+            },
+            "id": 94311
+          }
+        },
+        {
+          "type": "Concert",
+          "popularity": 0.0,
+          "status": "ok",
+          "displayName": "L'audition Musicale at Institut du Monde Arabe (June 8, 2014)",
+          "start": {
+            "time": null,
+            "date": "2014-06-08",
+            "datetime": null
+          },
+          "location": {
+            "city": "Paris, France",
+            "lat": 48.8667,
+            "lng": 2.33333
+          },
+          "uri": "http://www.songkick.com/concerts/20581293-laudition-musicale-at-institut-du-monde-arabe?utm_source=27998&utm_medium=partner",
+          "id": 20581293,
+          "performance": [
+            {
+              "billingIndex": 1,
+              "billing": "headline",
+              "displayName": "L'audition Musicale",
+              "id": 40999128,
+              "artist": {
+                "displayName": "L'audition Musicale",
+                "identifier": [],
+                "uri": "http://www.songkick.com/artists/8155458-laudition-musicale?utm_source=27998&utm_medium=partner",
+                "id": 8155458
+              }
+            }
+          ],
+          "venue": {
+            "displayName": "Institut du Monde Arabe",
+            "lat": null,
+            "lng": null,
+            "uri": "http://www.songkick.com/venues/54274-institut-du-monde-arabe?utm_source=27998&utm_medium=partner",
+            "id": 54274,
+            "metroArea": {
+              "displayName": "Paris",
+              "country": {
+                "displayName": "France"
+              },
+              "uri": "http://www.songkick.com/metro_areas/28909-france-paris?utm_source=27998&utm_medium=partner",
+              "id": 28909
+            }
+          },
+          "ageRestriction": null
+        },
+        {
+          "type": "Concert",
+          "popularity": 0.003778,
+          "status": "ok",
+          "displayName": "LA NUIT ELECTROSWING with Kormac, Typoboy, and JFTH at La Bellevilloise (June 8, 2014)",
+          "start": {
+            "time": "20:00:00",
+            "date": "2014-06-08",
+            "datetime": "2014-06-08T20:00:00+0100"
+          },
+          "location": {
+            "city": "Paris, France",
+            "lat": 48.8684917,
+            "lng": 2.3922253
+          },
+          "uri": "http://www.songkick.com/concerts/20614918-la-nuit-electroswing-at-la-bellevilloise?utm_source=27998&utm_medium=partner",
+          "id": 20614918,
+          "performance": [
+            {
+              "billingIndex": 1,
+              "billing": "headline",
+              "displayName": "LA NUIT ELECTROSWING",
+              "id": 41076098,
+              "artist": {
+                "displayName": "LA NUIT ELECTROSWING",
+                "identifier": [],
+                "uri": "http://www.songkick.com/artists/5872979-la-nuit-electroswing?utm_source=27998&utm_medium=partner",
+                "id": 5872979
+              }
+            },
+            {
+              "billingIndex": 2,
+              "billing": "support",
+              "displayName": "Kormac",
+              "id": 41076103,
+              "artist": {
+                "displayName": "Kormac",
+                "identifier": [
+                  {
+                    "mbid": "10d9e76d-7504-414a-960e-33b59fd9df69",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:10d9e76d-7504-414a-960e-33b59fd9df69.json"
+                  }
+                ],
+                "uri": "http://www.songkick.com/artists/1143716-kormac?utm_source=27998&utm_medium=partner",
+                "id": 1143716
+              }
+            },
+            {
+              "billingIndex": 3,
+              "billing": "support",
+              "displayName": "Typoboy",
+              "id": 41076108,
+              "artist": {
+                "displayName": "Typoboy",
+                "identifier": [],
+                "uri": "http://www.songkick.com/artists/5820724-typoboy?utm_source=27998&utm_medium=partner",
+                "id": 5820724
+              }
+            },
+            {
+              "billingIndex": 4,
+              "billing": "support",
+              "displayName": "JFTH",
+              "id": 41076113,
+              "artist": {
+                "displayName": "JFTH",
+                "identifier": [],
+                "uri": "http://www.songkick.com/artists/6990574-jfth?utm_source=27998&utm_medium=partner",
+                "id": 6990574
+              }
+            }
+          ],
+          "venue": {
+            "displayName": "La Bellevilloise",
+            "lat": 48.8684917,
+            "lng": 2.3922253,
+            "uri": "http://www.songkick.com/venues/507281-la-bellevilloise?utm_source=27998&utm_medium=partner",
+            "id": 507281,
+            "metroArea": {
+              "displayName": "Paris",
+              "country": {
+                "displayName": "France"
+              },
+              "uri": "http://www.songkick.com/metro_areas/28909-france-paris?utm_source=27998&utm_medium=partner",
+              "id": 28909
+            }
+          },
+          "ageRestriction": null
+        },
+        {
+          "type": "Concert",
+          "status": "ok",
+          "displayName": "Al.hy at Théâtre du Petit Saint Martin (June 9, 2014)",
+          "ageRestriction": null,
+          "start": {
+            "time": "21:00:00",
+            "date": "2014-06-09",
+            "datetime": "2014-06-09T21:00:00+0100"
+          },
+          "location": {
+            "city": "Paris, France",
+            "lat": 48.8692484,
+            "lng": 2.356806
+          },
+          "popularity": 0.0,
+          "uri": "http://www.songkick.com/concerts/20391683-alhy-at-theatre-du-petit-saint-martin?utm_source=27998&utm_medium=partner",
+          "id": 20391683,
+          "performance": [
+            {
+              "billingIndex": 1,
+              "displayName": "Al.hy",
+              "billing": "headline",
+              "id": 40581338,
+              "artist": {
+                "displayName": "Al.hy",
+                "identifier": [],
+                "uri": "http://www.songkick.com/artists/8093568-alhy?utm_source=27998&utm_medium=partner",
+                "id": 8093568
+              }
+            }
+          ],
+          "venue": {
+            "metroArea": {
+              "displayName": "Paris",
+              "country": {
+                "displayName": "France"
+              },
+              "uri": "http://www.songkick.com/metro_areas/28909-france-paris?utm_source=27998&utm_medium=partner",
+              "id": 28909
+            },
+            "displayName": "Théâtre du Petit Saint Martin",
+            "lat": 48.8692484,
+            "lng": 2.356806,
+            "uri": "http://www.songkick.com/venues/592336-theatre-du-petit-saint-martin?utm_source=27998&utm_medium=partner",
+            "id": 592336
+          }
+        },
+        {
+          "type": "Concert",
+          "popularity": 0.0,
+          "status": "ok",
+          "displayName": "Marécage, Starstoned, and Seas Hum at Le Buzz (June 9, 2014)",
+          "start": {
+            "time": "20:00:00",
+            "date": "2014-06-09",
+            "datetime": "2014-06-09T20:00:00+0100"
+          },
+          "location": {
+            "city": "Paris, France",
+            "lat": 48.8706546,
+            "lng": 2.3787594
+          },
+          "uri": "http://www.songkick.com/concerts/20743563-marecage-at-le-buzz?utm_source=27998&utm_medium=partner",
+          "id": 20743563,
+          "performance": [
+            {
+              "billingIndex": 1,
+              "billing": "headline",
+              "displayName": "Marécage",
+              "id": 41352438,
+              "artist": {
+                "displayName": "Marécage",
+                "identifier": [],
+                "uri": "http://www.songkick.com/artists/8213528-marecage?utm_source=27998&utm_medium=partner",
+                "id": 8213528
+              }
+            },
+            {
+              "billingIndex": 2,
+              "billing": "headline",
+              "displayName": "Starstoned",
+              "id": 41352443,
+              "artist": {
+                "displayName": "Starstoned",
+                "identifier": [],
+                "uri": "http://www.songkick.com/artists/8213533-starstoned?utm_source=27998&utm_medium=partner",
+                "id": 8213533
+              }
+            },
+            {
+              "billingIndex": 3,
+              "billing": "headline",
+              "displayName": "Seas Hum",
+              "id": 41352448,
+              "artist": {
+                "displayName": "Seas Hum",
+                "identifier": [],
+                "uri": "http://www.songkick.com/artists/8213538-seas-hum?utm_source=27998&utm_medium=partner",
+                "id": 8213538
+              }
+            }
+          ],
+          "venue": {
+            "metroArea": {
+              "displayName": "Paris",
+              "country": {
+                "displayName": "France"
+              },
+              "uri": "http://www.songkick.com/metro_areas/28909-france-paris?utm_source=27998&utm_medium=partner",
+              "id": 28909
+            },
+            "displayName": "Le Buzz",
+            "lat": 48.8706546,
+            "lng": 2.3787594,
+            "uri": "http://www.songkick.com/venues/1122071-le-buzz?utm_source=27998&utm_medium=partner",
+            "id": 1122071
+          },
+          "ageRestriction": null
+        },
+        {
+          "type": "Concert",
+          "popularity": 0.000078,
+          "status": "ok",
+          "displayName": "Lost in the Riots at La Cantine de Belville (June 9, 2014)",
+          "start": {
+            "time": "19:00:00",
+            "date": "2014-06-09",
+            "datetime": "2014-06-09T19:00:00+0100"
+          },
+          "location": {
+            "city": "Paris, France",
+            "lat": 48.870829,
+            "lng": 2.3788362
+          },
+          "uri": "http://www.songkick.com/concerts/20764443-lost-in-the-riots-at-la-cantine-de-belville?utm_source=27998&utm_medium=partner",
+          "id": 20764443,
+          "performance": [
+            {
+              "billingIndex": 1,
+              "billing": "headline",
+              "displayName": "Lost in the Riots",
+              "id": 41394588,
+              "artist": {
+                "displayName": "Lost in the Riots",
+                "identifier": [],
+                "uri": "http://www.songkick.com/artists/4325651-lost-in-the-riots?utm_source=27998&utm_medium=partner",
+                "id": 4325651
+              }
+            }
+          ],
+          "venue": {
+            "metroArea": {
+              "displayName": "Paris",
+              "country": {
+                "displayName": "France"
+              },
+              "uri": "http://www.songkick.com/metro_areas/28909-france-paris?utm_source=27998&utm_medium=partner",
+              "id": 28909
+            },
+            "displayName": "La Cantine de Belville",
+            "lat": 48.870829,
+            "lng": 2.3788362,
+            "uri": "http://www.songkick.com/venues/2664073-la-cantine-de-belville?utm_source=27998&utm_medium=partner",
+            "id": 2664073
+          },
+          "ageRestriction": null
+        },
+        {
+          "type": "Concert",
+          "ageRestriction": null,
+          "status": "ok",
+          "displayName": "Alice Hejna with Les Wombats at Baiser Salé (June 9, 2014)",
+          "start": {
+            "time": "19:00:00",
+            "date": "2014-06-09",
+            "datetime": "2014-06-09T19:00:00+0100"
+          },
+          "location": {
+            "city": "Paris, France",
+            "lat": 48.8597622,
+            "lng": 2.3479128
+          },
+          "popularity": 0.000011,
+          "uri": "http://www.songkick.com/concerts/20530828-alice-hejna-at-baiser-sale?utm_source=27998&utm_medium=partner",
+          "id": 20530828,
+          "performance": [
+            {
+              "billingIndex": 1,
+              "billing": "headline",
+              "displayName": "Alice Hejna",
+              "id": 40886808,
+              "artist": {
+                "displayName": "Alice Hejna",
+                "identifier": [],
+                "uri": "http://www.songkick.com/artists/883261-alice-hejna?utm_source=27998&utm_medium=partner",
+                "id": 883261
+              }
+            },
+            {
+              "billingIndex": 2,
+              "billing": "support",
+              "displayName": "Les Wombats",
+              "id": 40886813,
+              "artist": {
+                "displayName": "Les Wombats",
+                "identifier": [],
+                "uri": "http://www.songkick.com/artists/8138943-les-wombats?utm_source=27998&utm_medium=partner",
+                "id": 8138943
+              }
+            }
+          ],
+          "venue": {
+            "metroArea": {
+              "displayName": "Paris",
+              "country": {
+                "displayName": "France"
+              },
+              "uri": "http://www.songkick.com/metro_areas/28909-france-paris?utm_source=27998&utm_medium=partner",
+              "id": 28909
+            },
+            "displayName": "Baiser Salé",
+            "lat": 48.8597622,
+            "lng": 2.3479128,
+            "uri": "http://www.songkick.com/venues/591406-baiser-sale?utm_source=27998&utm_medium=partner",
+            "id": 591406
+          }
+        },
+        {
+          "type": "Concert",
+          "status": "ok",
+          "ageRestriction": null,
+          "start": {
+            "time": "19:30:00",
+            "date": "2014-06-09",
+            "datetime": "2014-06-09T19:30:00+0100"
+          },
+          "performance": [
+            {
+              "billing": "headline",
+              "billingIndex": 1,
+              "id": 36129344,
+              "artist": {
+                "identifier": [],
+                "uri": "http://www.songkick.com/artists/7364659-concerto-en-cuisine?utm_source=27998&utm_medium=partner",
+                "id": 7364659,
+                "displayName": "Concerto En Cuisine !"
+              },
+              "displayName": "Concerto En Cuisine !"
+            }
+          ],
+          "venue": {
+            "lat": 48.8596748,
+            "lng": 2.3459692,
+            "metroArea": {
+              "country": {
+                "displayName": "France"
+              },
+              "uri": "http://www.songkick.com/metro_areas/28909-france-paris?utm_source=27998&utm_medium=partner",
+              "id": 28909,
+              "displayName": "Paris"
+            },
+            "uri": "http://www.songkick.com/venues/851086-les-dechargeurs-salle-vicky-messica?utm_source=27998&utm_medium=partner",
+            "id": 851086,
+            "displayName": "Les Dechargeurs Salle Vicky Messica"
+          },
+          "popularity": 0.0,
+          "location": {
+            "city": "Paris, France",
+            "lat": 48.8596748,
+            "lng": 2.3459692
+          },
+          "uri": "http://www.songkick.com/concerts/18224519-concerto-en-cuisine-at-les-dechargeurs-salle-vicky-messica?utm_source=27998&utm_medium=partner",
+          "id": 18224519,
+          "displayName": "Concerto En Cuisine ! at Les Dechargeurs Salle Vicky Messica (June 9, 2014)"
+        },
+        {
+          "type": "Concert",
+          "popularity": 0.370695,
+          "status": "ok",
+          "displayName": "Deadmau5 at Showcase (June 9, 2014)",
+          "start": {
+            "time": "23:00:00",
+            "date": "2014-06-09",
+            "datetime": "2014-06-09T23:00:00+0100"
+          },
+          "location": {
+            "city": "Paris, France",
+            "lat": 48.8636692,
+            "lng": 2.3135474
+          },
+          "uri": "http://www.songkick.com/concerts/20753363-deadmau5-at-showcase?utm_source=27998&utm_medium=partner",
+          "id": 20753363,
+          "performance": [
+            {
+              "billingIndex": 1,
+              "billing": "headline",
+              "displayName": "Deadmau5",
+              "id": 41372578,
+              "artist": {
+                "displayName": "Deadmau5",
+                "identifier": [
+                  {
+                    "mbid": "4a00ec9d-c635-463a-8cd4-eb61725f0c60",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:4a00ec9d-c635-463a-8cd4-eb61725f0c60.json"
+                  }
+                ],
+                "uri": "http://www.songkick.com/artists/244669-deadmau5?utm_source=27998&utm_medium=partner",
+                "id": 244669
+              }
+            }
+          ],
+          "venue": {
+            "metroArea": {
+              "displayName": "Paris",
+              "country": {
+                "displayName": "France"
+              },
+              "uri": "http://www.songkick.com/metro_areas/28909-france-paris?utm_source=27998&utm_medium=partner",
+              "id": 28909
+            },
+            "displayName": "Showcase",
+            "lat": 48.8636692,
+            "lng": 2.3135474,
+            "uri": "http://www.songkick.com/venues/32848-showcase?utm_source=27998&utm_medium=partner",
+            "id": 32848
+          },
+          "ageRestriction": null
+        },
+        {
+          "type": "Concert",
+          "status": "ok",
+          "popularity": 0.015342,
+          "displayName": "Ayo at Folies Bergère (June 9, 2014)",
+          "ageRestriction": null,
+          "start": {
+            "time": "20:00:00",
+            "date": "2014-06-09",
+            "datetime": "2014-06-09T20:00:00+0100"
+          },
+          "location": {
+            "city": "Paris, France",
+            "lat": 48.87405,
+            "lng": 2.3449042
+          },
+          "uri": "http://www.songkick.com/concerts/19820489-ayo-at-folies-bergere?utm_source=27998&utm_medium=partner",
+          "id": 19820489,
+          "performance": [
+            {
+              "billingIndex": 1,
+              "billing": "headline",
+              "displayName": "Ayo",
+              "id": 39371334,
+              "artist": {
+                "displayName": "Ayo",
+                "identifier": [
+                  {
+                    "mbid": "cb2972b9-29d1-4d47-b5a8-51e1035a6003",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:cb2972b9-29d1-4d47-b5a8-51e1035a6003.json"
+                  },
+                  {
+                    "mbid": "633c13a3-335a-466f-8e01-535837faeff5",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:633c13a3-335a-466f-8e01-535837faeff5.json"
+                  },
+                  {
+                    "mbid": "b0442745-1f90-4d3f-ad7a-d0ca4dbbcd68",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:b0442745-1f90-4d3f-ad7a-d0ca4dbbcd68.json"
+                  },
+                  {
+                    "mbid": "1ffb3456-0028-42b8-9b9c-4abb9a4d2a7e",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:1ffb3456-0028-42b8-9b9c-4abb9a4d2a7e.json"
+                  }
+                ],
+                "uri": "http://www.songkick.com/artists/398570-ayo?utm_source=27998&utm_medium=partner",
+                "id": 398570
+              }
+            }
+          ],
+          "venue": {
+            "displayName": "Folies Bergère",
+            "lat": 48.87405,
+            "lng": 2.3449042,
+            "uri": "http://www.songkick.com/venues/85020-folies-bergere?utm_source=27998&utm_medium=partner",
+            "metroArea": {
+              "displayName": "Paris",
+              "country": {
+                "displayName": "France"
+              },
+              "uri": "http://www.songkick.com/metro_areas/28909-france-paris?utm_source=27998&utm_medium=partner",
+              "id": 28909
+            },
+            "id": 85020
+          }
+        },
+        {
+          "type": "Concert",
+          "popularity": 0.006959,
+          "status": "ok",
+          "displayName": "Girls Names at Pop Up Du Label (June 9, 2014)",
+          "start": {
+            "time": "19:30:00",
+            "date": "2014-06-09",
+            "datetime": "2014-06-09T19:30:00+0100"
+          },
+          "location": {
+            "city": "Paris, France",
+            "lat": 48.8475256,
+            "lng": 2.3756088
+          },
+          "uri": "http://www.songkick.com/concerts/20592043-girls-names-at-pop-up-du-label?utm_source=27998&utm_medium=partner",
+          "id": 20592043,
+          "performance": [
+            {
+              "billingIndex": 1,
+              "billing": "headline",
+              "displayName": "Girls Names",
+              "id": 41024858,
+              "artist": {
+                "displayName": "Girls Names",
+                "identifier": [
+                  {
+                    "mbid": "7ee21fe8-193d-40b1-8f61-796c4e58a957",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:7ee21fe8-193d-40b1-8f61-796c4e58a957.json"
+                  }
+                ],
+                "uri": "http://www.songkick.com/artists/2916391-girls-names?utm_source=27998&utm_medium=partner",
+                "id": 2916391
+              }
+            }
+          ],
+          "venue": {
+            "displayName": "Pop Up Du Label",
+            "lat": 48.8475256,
+            "lng": 2.3756088,
+            "uri": "http://www.songkick.com/venues/2631758-pop-up-du-label?utm_source=27998&utm_medium=partner",
+            "id": 2631758,
+            "metroArea": {
+              "displayName": "Paris",
+              "country": {
+                "displayName": "France"
+              },
+              "uri": "http://www.songkick.com/metro_areas/28909-france-paris?utm_source=27998&utm_medium=partner",
+              "id": 28909
+            }
+          },
+          "ageRestriction": null
+        },
+        {
+          "type": "Concert",
+          "status": "ok",
+          "ageRestriction": null,
+          "displayName": "Wye Oak with Bachelorette at Point Ephémère (June 9, 2014)",
+          "start": {
+            "time": "20:00:00",
+            "date": "2014-06-09",
+            "datetime": "2014-06-09T20:00:00+0100"
+          },
+          "location": {
+            "city": "Paris, France",
+            "lat": 48.8800578,
+            "lng": 2.3671058
+          },
+          "popularity": 0.041229,
+          "uri": "http://www.songkick.com/concerts/19747799-wye-oak-at-point-ephemere?utm_source=27998&utm_medium=partner",
+          "id": 19747799,
+          "performance": [
+            {
+              "billingIndex": 1,
+              "displayName": "Wye Oak",
+              "billing": "headline",
+              "id": 39218444,
+              "artist": {
+                "displayName": "Wye Oak",
+                "identifier": [
+                  {
+                    "mbid": "3c8ff4c9-b5b9-4e78-ad9d-5157c323de24",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:3c8ff4c9-b5b9-4e78-ad9d-5157c323de24.json"
+                  }
+                ],
+                "uri": "http://www.songkick.com/artists/2315151-wye-oak?utm_source=27998&utm_medium=partner",
+                "id": 2315151
+              }
+            },
+            {
+              "billingIndex": 2,
+              "displayName": "Bachelorette",
+              "billing": "support",
+              "id": 40344148,
+              "artist": {
+                "displayName": "Bachelorette",
+                "identifier": [
+                  {
+                    "mbid": "29ac0e97-2711-4a15-aa82-0e11985ab091",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:29ac0e97-2711-4a15-aa82-0e11985ab091.json"
+                  }
+                ],
+                "uri": "http://www.songkick.com/artists/231052-bachelorette?utm_source=27998&utm_medium=partner",
+                "id": 231052
+              }
+            }
+          ],
+          "venue": {
+            "metroArea": {
+              "displayName": "Paris",
+              "country": {
+                "displayName": "France"
+              },
+              "uri": "http://www.songkick.com/metro_areas/28909-france-paris?utm_source=27998&utm_medium=partner",
+              "id": 28909
+            },
+            "displayName": "Point Ephémère",
+            "lat": 48.8800578,
+            "lng": 2.3671058,
+            "uri": "http://www.songkick.com/venues/32683-point-ephemere?utm_source=27998&utm_medium=partner",
+            "id": 32683
+          }
+        },
+        {
+          "type": "Concert",
+          "popularity": 0.008728,
+          "status": "ok",
+          "displayName": "Moriarty at Café de la Danse (June 9, 2014)",
+          "start": {
+            "time": null,
+            "date": "2014-06-09",
+            "datetime": null
+          },
+          "location": {
+            "city": "Paris, France",
+            "lat": 48.8538519,
+            "lng": 2.3727885
+          },
+          "uri": "http://www.songkick.com/concerts/20690788-moriarty-at-cafe-de-la-danse?utm_source=27998&utm_medium=partner",
+          "id": 20690788,
+          "performance": [
+            {
+              "billingIndex": 1,
+              "billing": "headline",
+              "displayName": "Moriarty",
+              "id": 41238618,
+              "artist": {
+                "displayName": "Moriarty",
+                "identifier": [
+                  {
+                    "mbid": "7f998ad7-4cb1-4f5d-a366-98b23ecf2ace",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:7f998ad7-4cb1-4f5d-a366-98b23ecf2ace.json"
+                  },
+                  {
+                    "mbid": "091e142b-b3fe-43bc-99de-5f8f12822d31",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:091e142b-b3fe-43bc-99de-5f8f12822d31.json"
+                  },
+                  {
+                    "mbid": "4c32c5f9-3221-447f-aded-4beabcfa1475",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:4c32c5f9-3221-447f-aded-4beabcfa1475.json"
+                  },
+                  {
+                    "mbid": "401f864f-449c-4848-9823-bf3fa938fd98",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:401f864f-449c-4848-9823-bf3fa938fd98.json"
+                  }
+                ],
+                "uri": "http://www.songkick.com/artists/285776-moriarty?utm_source=27998&utm_medium=partner",
+                "id": 285776
+              }
+            }
+          ],
+          "venue": {
+            "metroArea": {
+              "displayName": "Paris",
+              "country": {
+                "displayName": "France"
+              },
+              "uri": "http://www.songkick.com/metro_areas/28909-france-paris?utm_source=27998&utm_medium=partner",
+              "id": 28909
+            },
+            "displayName": "Café de la Danse",
+            "lat": 48.8538519,
+            "lng": 2.3727885,
+            "uri": "http://www.songkick.com/venues/515556-cafe-de-la-danse?utm_source=27998&utm_medium=partner",
+            "id": 515556
+          },
+          "ageRestriction": null
+        },
+        {
+          "type": "Concert",
+          "popularity": 0.000072,
+          "status": "ok",
+          "displayName": "Soiree Klaxon with Alma Forrer, Juliette Armanet, and Bagarre at Les Trois Baudets (June 9, 2014)",
+          "start": {
+            "time": "20:00:00",
+            "date": "2014-06-09",
+            "datetime": "2014-06-09T20:00:00+0100"
+          },
+          "location": {
+            "city": "Paris, France",
+            "lat": 48.883429,
+            "lng": 2.3344905
+          },
+          "uri": "http://www.songkick.com/concerts/20554908-soiree-klaxon-at-les-trois-baudets?utm_source=27998&utm_medium=partner",
+          "id": 20554908,
+          "performance": [
+            {
+              "billingIndex": 1,
+              "billing": "headline",
+              "displayName": "Soiree Klaxon",
+              "id": 40938658,
+              "artist": {
+                "displayName": "Soiree Klaxon",
+                "identifier": [],
+                "uri": "http://www.songkick.com/artists/4678388-soiree-klaxon?utm_source=27998&utm_medium=partner",
+                "id": 4678388
+              }
+            },
+            {
+              "billingIndex": 2,
+              "billing": "support",
+              "displayName": "Alma Forrer",
+              "id": 40938663,
+              "artist": {
+                "displayName": "Alma Forrer",
+                "identifier": [],
+                "uri": "http://www.songkick.com/artists/7753774-alma-forrer?utm_source=27998&utm_medium=partner",
+                "id": 7753774
+              }
+            },
+            {
+              "billingIndex": 3,
+              "billing": "support",
+              "displayName": "Juliette Armanet",
+              "id": 40938668,
+              "artist": {
+                "displayName": "Juliette Armanet",
+                "identifier": [],
+                "uri": "http://www.songkick.com/artists/8107498-juliette-armanet?utm_source=27998&utm_medium=partner",
+                "id": 8107498
+              }
+            },
+            {
+              "billingIndex": 4,
+              "billing": "support",
+              "displayName": "Bagarre",
+              "id": 40938673,
+              "artist": {
+                "displayName": "Bagarre",
+                "identifier": [],
+                "uri": "http://www.songkick.com/artists/5513933-bagarre?utm_source=27998&utm_medium=partner",
+                "id": 5513933
+              }
+            }
+          ],
+          "venue": {
+            "displayName": "Les Trois Baudets",
+            "lat": 48.883429,
+            "lng": 2.3344905,
+            "uri": "http://www.songkick.com/venues/504136-les-trois-baudets?utm_source=27998&utm_medium=partner",
+            "id": 504136,
+            "metroArea": {
+              "displayName": "Paris",
+              "country": {
+                "displayName": "France"
+              },
+              "uri": "http://www.songkick.com/metro_areas/28909-france-paris?utm_source=27998&utm_medium=partner",
+              "id": 28909
+            }
+          },
+          "ageRestriction": null
+        },
+        {
+          "type": "Concert",
+          "popularity": 0.000176,
+          "status": "ok",
+          "displayName": "Anakyn and Szabi at 16 Tholozé (June 9, 2014)",
+          "start": {
+            "time": "18:00:00",
+            "date": "2014-06-09",
+            "datetime": "2014-06-09T18:00:00+0100"
+          },
+          "location": {
+            "city": "Paris, France",
+            "lat": 48.8864222,
+            "lng": 2.3354013
+          },
+          "uri": "http://www.songkick.com/concerts/20746968-anakyn-at-16-tholoze?utm_source=27998&utm_medium=partner",
+          "id": 20746968,
+          "performance": [
+            {
+              "billingIndex": 1,
+              "billing": "headline",
+              "displayName": "Anakyn",
+              "id": 41358328,
+              "artist": {
+                "displayName": "Anakyn",
+                "identifier": [],
+                "uri": "http://www.songkick.com/artists/6488744-anakyn?utm_source=27998&utm_medium=partner",
+                "id": 6488744
+              }
+            },
+            {
+              "billingIndex": 2,
+              "billing": "headline",
+              "displayName": "Szabi",
+              "id": 41358333,
+              "artist": {
+                "displayName": "Szabi",
+                "identifier": [],
+                "uri": "http://www.songkick.com/artists/8214348-szabi?utm_source=27998&utm_medium=partner",
+                "id": 8214348
+              }
+            }
+          ],
+          "venue": {
+            "metroArea": {
+              "displayName": "Paris",
+              "country": {
+                "displayName": "France"
+              },
+              "uri": "http://www.songkick.com/metro_areas/28909-france-paris?utm_source=27998&utm_medium=partner",
+              "id": 28909
+            },
+            "displayName": "16 Tholozé",
+            "lat": 48.8864222,
+            "lng": 2.3354013,
+            "uri": "http://www.songkick.com/venues/1601648-16-tholoze?utm_source=27998&utm_medium=partner",
+            "id": 1601648
+          },
+          "ageRestriction": null
+        },
+        {
+          "type": "Concert",
+          "status": "ok",
+          "popularity": 0.009104,
+          "displayName": "Les 4 Saisons with Pachelbel and Canon at La Sainte Chapelle (June 9, 2014)",
+          "ageRestriction": null,
+          "start": {
+            "time": "20:30:00",
+            "date": "2014-06-09",
+            "datetime": "2014-06-09T20:30:00+0100"
+          },
+          "location": {
+            "city": "Paris, France",
+            "lat": 48.8552901,
+            "lng": 2.3458614
+          },
+          "uri": "http://www.songkick.com/concerts/19874459-les-4-saisons-at-la-sainte-chapelle?utm_source=27998&utm_medium=partner",
+          "id": 19874459,
+          "performance": [
+            {
+              "billingIndex": 1,
+              "billing": "headline",
+              "displayName": "Les 4 Saisons",
+              "id": 39484974,
+              "artist": {
+                "displayName": "Les 4 Saisons",
+                "identifier": [],
+                "uri": "http://www.songkick.com/artists/7362954-les-4-saisons?utm_source=27998&utm_medium=partner",
+                "id": 7362954
+              }
+            },
+            {
+              "billingIndex": 2,
+              "billing": "support",
+              "displayName": "Pachelbel",
+              "id": 39484979,
+              "artist": {
+                "displayName": "Pachelbel",
+                "identifier": [],
+                "uri": "http://www.songkick.com/artists/438578-pachelbel?utm_source=27998&utm_medium=partner",
+                "id": 438578
+              }
+            },
+            {
+              "billingIndex": 3,
+              "billing": "support",
+              "displayName": "Canon",
+              "id": 39484984,
+              "artist": {
+                "displayName": "Canon",
+                "identifier": [
+                  {
+                    "mbid": "6f9f478e-84d2-4e0c-b7df-39ad6350251b",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:6f9f478e-84d2-4e0c-b7df-39ad6350251b.json"
+                  },
+                  {
+                    "mbid": "a553dbee-962e-405b-8651-7a767f6bf76a",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:a553dbee-962e-405b-8651-7a767f6bf76a.json"
+                  },
+                  {
+                    "mbid": "13991a8e-17a1-4f26-ba5f-3e0be137a02a",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:13991a8e-17a1-4f26-ba5f-3e0be137a02a.json"
+                  }
+                ],
+                "uri": "http://www.songkick.com/artists/44938-canon?utm_source=27998&utm_medium=partner",
+                "id": 44938
+              }
+            }
+          ],
+          "venue": {
+            "displayName": "La Sainte Chapelle",
+            "lat": 48.8552901,
+            "lng": 2.3458614,
+            "uri": "http://www.songkick.com/venues/1168011-la-sainte-chapelle?utm_source=27998&utm_medium=partner",
+            "metroArea": {
+              "displayName": "Paris",
+              "country": {
+                "displayName": "France"
+              },
+              "uri": "http://www.songkick.com/metro_areas/28909-france-paris?utm_source=27998&utm_medium=partner",
+              "id": 28909
+            },
+            "id": 1168011
+          }
+        },
+        {
+          "type": "Concert",
+          "status": "ok",
+          "popularity": 0.011692,
+          "displayName": "Trust at Nouveau Casino (June 9, 2014)",
+          "ageRestriction": null,
+          "start": {
+            "time": "19:30:00",
+            "date": "2014-06-09",
+            "datetime": "2014-06-09T19:30:00+0100"
+          },
+          "location": {
+            "city": "Paris, France",
+            "lat": 48.8657854,
+            "lng": 2.3776194
+          },
+          "uri": "http://www.songkick.com/concerts/19654279-trust-at-nouveau-casino?utm_source=27998&utm_medium=partner",
+          "id": 19654279,
+          "performance": [
+            {
+              "billingIndex": 1,
+              "billing": "headline",
+              "displayName": "Trust",
+              "id": 39023814,
+              "artist": {
+                "displayName": "Trust",
+                "identifier": [
+                  {
+                    "mbid": "83c6c292-e82a-4954-aef4-2b23b72691fb",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:83c6c292-e82a-4954-aef4-2b23b72691fb.json"
+                  },
+                  {
+                    "mbid": "33d281da-d36f-4d22-9c4f-fa39f9718302",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:33d281da-d36f-4d22-9c4f-fa39f9718302.json"
+                  },
+                  {
+                    "mbid": "908732d2-670a-48b3-8c34-8c63bafdc5a4",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:908732d2-670a-48b3-8c34-8c63bafdc5a4.json"
+                  },
+                  {
+                    "mbid": "5692693d-5b4f-4a4f-9e4f-2cc11e7b2012",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:5692693d-5b4f-4a4f-9e4f-2cc11e7b2012.json"
+                  },
+                  {
+                    "mbid": "e91915dc-5045-4457-b267-a9879877406c",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:e91915dc-5045-4457-b267-a9879877406c.json"
+                  },
+                  {
+                    "mbid": "13bcfe9f-4f41-49a2-ba9f-7caa5fa477e4",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:13bcfe9f-4f41-49a2-ba9f-7caa5fa477e4.json"
+                  }
+                ],
+                "uri": "http://www.songkick.com/artists/188408-trust?utm_source=27998&utm_medium=partner",
+                "id": 188408
+              }
+            }
+          ],
+          "venue": {
+            "displayName": "Nouveau Casino",
+            "lat": 48.8657854,
+            "lng": 2.3776194,
+            "uri": "http://www.songkick.com/venues/32863-nouveau-casino?utm_source=27998&utm_medium=partner",
+            "metroArea": {
+              "displayName": "Paris",
+              "country": {
+                "displayName": "France"
+              },
+              "uri": "http://www.songkick.com/metro_areas/28909-france-paris?utm_source=27998&utm_medium=partner",
+              "id": 28909
+            },
+            "id": 32863
+          }
+        },
+        {
+          "type": "Concert",
+          "status": "ok",
+          "ageRestriction": null,
+          "displayName": "The Pains of Being Pure At Heart and Fear of Men at La Machine du Moulin Rouge (June 9, 2014)",
+          "start": {
+            "time": "20:00:00",
+            "date": "2014-06-09",
+            "datetime": "2014-06-09T20:00:00+0100"
+          },
+          "location": {
+            "city": "Paris, France",
+            "lat": 48.8841775,
+            "lng": 2.3321874
+          },
+          "popularity": 0.056441,
+          "uri": "http://www.songkick.com/concerts/19874524-pains-of-being-pure-at-heart-at-la-machine-du-moulin-rouge?utm_source=27998&utm_medium=partner",
+          "id": 19874524,
+          "performance": [
+            {
+              "billingIndex": 1,
+              "displayName": "The Pains of Being Pure At Heart",
+              "billing": "headline",
+              "id": 39485154,
+              "artist": {
+                "displayName": "The Pains of Being Pure At Heart",
+                "identifier": [
+                  {
+                    "mbid": "46f4e349-ddec-4131-9367-91b630a821d0",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:46f4e349-ddec-4131-9367-91b630a821d0.json"
+                  }
+                ],
+                "uri": "http://www.songkick.com/artists/2313769-pains-of-being-pure-at-heart?utm_source=27998&utm_medium=partner",
+                "id": 2313769
+              }
+            },
+            {
+              "billingIndex": 2,
+              "displayName": "Fear of Men",
+              "billing": "headline",
+              "id": 40566793,
+              "artist": {
+                "displayName": "Fear of Men",
+                "identifier": [
+                  {
+                    "mbid": "7aeca08c-8b87-4d85-8cc9-6189a946d2e4",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:7aeca08c-8b87-4d85-8cc9-6189a946d2e4.json"
+                  }
+                ],
+                "uri": "http://www.songkick.com/artists/3863831-fear-of-men?utm_source=27998&utm_medium=partner",
+                "id": 3863831
+              }
+            }
+          ],
+          "venue": {
+            "metroArea": {
+              "displayName": "Paris",
+              "country": {
+                "displayName": "France"
+              },
+              "uri": "http://www.songkick.com/metro_areas/28909-france-paris?utm_source=27998&utm_medium=partner",
+              "id": 28909
+            },
+            "displayName": "La Machine du Moulin Rouge",
+            "lat": 48.8841775,
+            "lng": 2.3321874,
+            "uri": "http://www.songkick.com/venues/794196-la-machine-du-moulin-rouge?utm_source=27998&utm_medium=partner",
+            "id": 794196
+          }
+        },
+        {
+          "type": "Concert",
+          "ageRestriction": null,
+          "status": "ok",
+          "displayName": "Lynda Lemay at L'Olympia (June 9, 2014)",
+          "popularity": 0.001097,
+          "start": {
+            "time": "20:30:00",
+            "date": "2014-06-09",
+            "datetime": "2014-06-09T20:30:00+0100"
+          },
+          "location": {
+            "city": "Paris, France",
+            "lat": 48.8700741,
+            "lng": 2.3277568
+          },
+          "uri": "http://www.songkick.com/concerts/17142039-lynda-lemay-at-lolympia?utm_source=27998&utm_medium=partner",
+          "id": 17142039,
+          "performance": [
+            {
+              "billingIndex": 1,
+              "billing": "headline",
+              "displayName": "Lynda Lemay",
+              "id": 33914809,
+              "artist": {
+                "displayName": "Lynda Lemay",
+                "identifier": [
+                  {
+                    "mbid": "eb4a0136-d577-4c62-acd3-33e933a91f8d",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:eb4a0136-d577-4c62-acd3-33e933a91f8d.json"
+                  }
+                ],
+                "uri": "http://www.songkick.com/artists/258777-lynda-lemay?utm_source=27998&utm_medium=partner",
+                "id": 258777
+              }
+            }
+          ],
+          "venue": {
+            "displayName": "L'Olympia",
+            "metroArea": {
+              "displayName": "Paris",
+              "country": {
+                "displayName": "France"
+              },
+              "uri": "http://www.songkick.com/metro_areas/28909-france-paris?utm_source=27998&utm_medium=partner",
+              "id": 28909
+            },
+            "lat": 48.8700741,
+            "lng": 2.3277568,
+            "uri": "http://www.songkick.com/venues/35050-lolympia?utm_source=27998&utm_medium=partner",
+            "id": 35050
+          }
+        },
+        {
+          "type": "Concert",
+          "ageRestriction": null,
+          "status": "ok",
+          "performance": [
+            {
+              "artist": {
+                "identifier": [],
+                "uri": "http://www.songkick.com/artists/4860168-adam-pache?utm_source=27998&utm_medium=partner",
+                "displayName": "Adam Pache",
+                "id": 4860168
+              },
+              "billingIndex": 1,
+              "billing": "headline",
+              "displayName": "Adam Pache",
+              "id": 39017489
+            }
+          ],
+          "venue": {
+            "lat": 48.8530451,
+            "lng": 2.3454103,
+            "uri": "http://www.songkick.com/venues/1141531-le-caveau-de-la-huchette?utm_source=27998&utm_medium=partner",
+            "displayName": "Le Caveau De La Huchette",
+            "id": 1141531,
+            "metroArea": {
+              "country": {
+                "displayName": "France"
+              },
+              "uri": "http://www.songkick.com/metro_areas/28909-france-paris?utm_source=27998&utm_medium=partner",
+              "id": 28909,
+              "displayName": "Paris"
+            }
+          },
+          "start": {
+            "time": "20:00:00",
+            "date": "2014-06-09",
+            "datetime": "2014-06-09T20:00:00+0100"
+          },
+          "popularity": 0.0000020,
+          "location": {
+            "lat": 48.8530451,
+            "lng": 2.3454103,
+            "city": "Paris, France"
+          },
+          "uri": "http://www.songkick.com/concerts/19651139-adam-pache-at-le-caveau-de-la-huchette?utm_source=27998&utm_medium=partner",
+          "id": 19651139,
+          "displayName": "Adam Pache at Le Caveau De La Huchette (June 9, 2014)"
+        },
+        {
+          "type": "Concert",
+          "status": "ok",
+          "performance": [
+            {
+              "billing": "headline",
+              "artist": {
+                "identifier": [
+                  {
+                    "mbid": "b96ba7e7-d882-409a-9825-ed3d6dbb437d",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:b96ba7e7-d882-409a-9825-ed3d6dbb437d.json"
+                  }
+                ],
+                "uri": "http://www.songkick.com/artists/523823-toumani-diabate?utm_source=27998&utm_medium=partner",
+                "displayName": "Toumani Diabaté",
+                "id": 523823
+              },
+              "billingIndex": 1,
+              "displayName": "Toumani Diabaté",
+              "id": 39254374
+            },
+            {
+              "billing": "headline",
+              "artist": {
+                "identifier": [],
+                "uri": "http://www.songkick.com/artists/7844519-sidiki-diabate?utm_source=27998&utm_medium=partner",
+                "displayName": "Sidiki Diabate",
+                "id": 7844519
+              },
+              "billingIndex": 2,
+              "displayName": "Sidiki Diabate",
+              "id": 39254379
+            }
+          ],
+          "venue": {
+            "lat": null,
+            "metroArea": {
+              "country": {
+                "displayName": "France"
+              },
+              "uri": "http://www.songkick.com/metro_areas/28909-france-paris?utm_source=27998&utm_medium=partner",
+              "id": 28909,
+              "displayName": "Paris"
+            },
+            "lng": null,
+            "uri": "http://www.songkick.com/venues/484151-theatre-des-bouffes-du-nord?utm_source=27998&utm_medium=partner",
+            "displayName": "Théâtre des Bouffes du Nord",
+            "id": 484151
+          },
+          "start": {
+            "time": null,
+            "date": "2014-06-10",
+            "datetime": null
+          },
+          "popularity": 0.004812,
+          "location": {
+            "lat": 48.8667,
+            "lng": 2.33333,
+            "city": "Paris, France"
+          },
+          "ageRestriction": null,
+          "uri": "http://www.songkick.com/concerts/19764564-toumani-diabate-at-theatre-des-bouffes-du-nord?utm_source=27998&utm_medium=partner",
+          "id": 19764564,
+          "displayName": "Toumani Diabaté and Sidiki Diabate at Théâtre des Bouffes du Nord (June 10, 2014)"
+        },
+        {
+          "type": "Concert",
+          "status": "cancelled",
+          "ageRestriction": null,
+          "start": {
+            "time": "19:30:00",
+            "date": "2014-06-10",
+            "datetime": "2014-06-10T19:30:00+0100"
+          },
+          "performance": [
+            {
+              "billing": "headline",
+              "billingIndex": 1,
+              "id": 38179154,
+              "artist": {
+                "identifier": [
+                  {
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:a9044915-8be3-4c7e-b11f-9e2d2ea0a91e.json",
+                    "mbid": "a9044915-8be3-4c7e-b11f-9e2d2ea0a91e"
+                  }
+                ],
+                "uri": "http://www.songkick.com/artists/117140-megadeth?utm_source=27998&utm_medium=partner",
+                "id": 117140,
+                "displayName": "Megadeth"
+              },
+              "displayName": "Megadeth"
+            }
+          ],
+          "venue": {
+            "lat": 48.8325579,
+            "lng": 2.2871812,
+            "metroArea": {
+              "country": {
+                "displayName": "France"
+              },
+              "uri": "http://www.songkick.com/metro_areas/28909-france-paris?utm_source=27998&utm_medium=partner",
+              "id": 28909,
+              "displayName": "Paris"
+            },
+            "uri": "http://www.songkick.com/venues/383656-palais-des-sports?utm_source=27998&utm_medium=partner",
+            "id": 383656,
+            "displayName": "Palais Des Sports"
+          },
+          "popularity": 0.127139,
+          "location": {
+            "city": "Paris, France",
+            "lat": 48.8325579,
+            "lng": 2.2871812
+          },
+          "uri": "http://www.songkick.com/concerts/19240824-megadeth-at-palais-des-sports?utm_source=27998&utm_medium=partner",
+          "id": 19240824,
+          "displayName": "Megadeth at Palais Des Sports (June 10, 2014) (CANCELLED) "
+        },
+        {
+          "type": "Concert",
+          "status": "ok",
+          "ageRestriction": null,
+          "start": {
+            "time": "19:30:00",
+            "date": "2014-06-10",
+            "datetime": "2014-06-10T19:30:00+0100"
+          },
+          "performance": [
+            {
+              "billing": "headline",
+              "billingIndex": 1,
+              "id": 37027069,
+              "artist": {
+                "identifier": [],
+                "uri": "http://www.songkick.com/artists/7362184-celia-wa?utm_source=27998&utm_medium=partner",
+                "id": 7362184,
+                "displayName": "Celia Wa"
+              },
+              "displayName": "Celia Wa"
+            },
+            {
+              "billing": "support",
+              "billingIndex": 2,
+              "id": 37027074,
+              "artist": {
+                "identifier": [],
+                "uri": "http://www.songkick.com/artists/7520504-was-project-le-jazz-de-demain?utm_source=27998&utm_medium=partner",
+                "id": 7520504,
+                "displayName": "\"wa's Project\" Le Jazz De Demain"
+              },
+              "displayName": "\"wa's Project\" Le Jazz De Demain"
+            },
+            {
+              "billing": "support",
+              "billingIndex": 3,
+              "id": 37027079,
+              "artist": {
+                "identifier": [],
+                "uri": "http://www.songkick.com/artists/2085340-residence?utm_source=27998&utm_medium=partner",
+                "id": 2085340,
+                "displayName": "The Residence"
+              },
+              "displayName": "The Residence"
+            }
+          ],
+          "venue": {
+            "lat": 48.8597622,
+            "lng": 2.3479128,
+            "metroArea": {
+              "country": {
+                "displayName": "France"
+              },
+              "uri": "http://www.songkick.com/metro_areas/28909-france-paris?utm_source=27998&utm_medium=partner",
+              "id": 28909,
+              "displayName": "Paris"
+            },
+            "uri": "http://www.songkick.com/venues/91522-le-baiser-sale?utm_source=27998&utm_medium=partner",
+            "id": 91522,
+            "displayName": "Le Baiser Salé"
+          },
+          "popularity": 0.000025,
+          "location": {
+            "city": "Paris, France",
+            "lat": 48.8597622,
+            "lng": 2.3479128
+          },
+          "uri": "http://www.songkick.com/concerts/18670634-celia-wa-at-le-baiser-sale?utm_source=27998&utm_medium=partner",
+          "id": 18670634,
+          "displayName": "Celia Wa with \"wa's Project\" Le Jazz De Demain and The Residence at Le Baiser Salé (June 10, 2014)"
+        },
+        {
+          "type": "Concert",
+          "popularity": 0.000486,
+          "status": "ok",
+          "displayName": "Talisco at La Cigale (June 10, 2014)",
+          "start": {
+            "time": "20:00:00",
+            "date": "2014-06-10",
+            "datetime": "2014-06-10T20:00:00+0100"
+          },
+          "location": {
+            "city": "Paris, France",
+            "lat": 48.8821952,
+            "lng": 2.3401413
+          },
+          "uri": "http://www.songkick.com/concerts/19046429-talisco-at-la-cigale?utm_source=27998&utm_medium=partner",
+          "id": 19046429,
+          "performance": [
+            {
+              "billingIndex": 1,
+              "billing": "headline",
+              "displayName": "Talisco",
+              "id": 37787834,
+              "artist": {
+                "displayName": "Talisco",
+                "identifier": [],
+                "uri": "http://www.songkick.com/artists/6840099-talisco?utm_source=27998&utm_medium=partner",
+                "id": 6840099
+              }
+            }
+          ],
+          "venue": {
+            "metroArea": {
+              "displayName": "Paris",
+              "country": {
+                "displayName": "France"
+              },
+              "uri": "http://www.songkick.com/metro_areas/28909-france-paris?utm_source=27998&utm_medium=partner",
+              "id": 28909
+            },
+            "displayName": "La Cigale",
+            "lat": 48.8821952,
+            "lng": 2.3401413,
+            "uri": "http://www.songkick.com/venues/30931-la-cigale?utm_source=27998&utm_medium=partner",
+            "id": 30931
+          },
+          "ageRestriction": null
+        },
+        {
+          "type": "Concert",
+          "status": "ok",
+          "ageRestriction": null,
+          "start": {
+            "time": "19:30:00",
+            "date": "2014-06-10",
+            "datetime": "2014-06-10T19:30:00+0100"
+          },
+          "performance": [
+            {
+              "billing": "headline",
+              "billingIndex": 1,
+              "id": 38860579,
+              "artist": {
+                "identifier": [
+                  {
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:3599a39e-4e10-4cb5-90d4-c8a015ebc73b.json",
+                    "mbid": "3599a39e-4e10-4cb5-90d4-c8a015ebc73b"
+                  }
+                ],
+                "uri": "http://www.songkick.com/artists/400418-portugal-the-man?utm_source=27998&utm_medium=partner",
+                "id": 400418,
+                "displayName": "Portugal. The Man"
+              },
+              "displayName": "Portugal. The Man"
+            }
+          ],
+          "venue": {
+            "lat": 48.8890945,
+            "lng": 2.3944312,
+            "metroArea": {
+              "country": {
+                "displayName": "France"
+              },
+              "uri": "http://www.songkick.com/metro_areas/28909-france-paris?utm_source=27998&utm_medium=partner",
+              "id": 28909,
+              "displayName": "Paris"
+            },
+            "uri": "http://www.songkick.com/venues/34666-le-trabendo?utm_source=27998&utm_medium=partner",
+            "id": 34666,
+            "displayName": "Le Trabendo"
+          },
+          "popularity": 0.089406,
+          "location": {
+            "city": "Paris, France",
+            "lat": 48.8890945,
+            "lng": 2.3944312
+          },
+          "uri": "http://www.songkick.com/concerts/19576149-portugal-the-man-at-le-trabendo?utm_source=27998&utm_medium=partner",
+          "id": 19576149,
+          "displayName": "Portugal. The Man at Le Trabendo (June 10, 2014)"
+        },
+        {
+          "type": "Concert",
+          "popularity": 0.00109,
+          "status": "ok",
+          "displayName": "Lynda Lemay at L'Olympia (June 10, 2014)",
+          "start": {
+            "time": "20:30:00",
+            "date": "2014-06-10",
+            "datetime": "2014-06-10T20:30:00+0100"
+          },
+          "location": {
+            "city": "Paris, France",
+            "lat": 48.8700741,
+            "lng": 2.3277568
+          },
+          "uri": "http://www.songkick.com/concerts/17148434-lynda-lemay-at-lolympia?utm_source=27998&utm_medium=partner",
+          "id": 17148434,
+          "performance": [
+            {
+              "billingIndex": 1,
+              "billing": "headline",
+              "displayName": "Lynda Lemay",
+              "id": 33926769,
+              "artist": {
+                "displayName": "Lynda Lemay",
+                "identifier": [
+                  {
+                    "mbid": "eb4a0136-d577-4c62-acd3-33e933a91f8d",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:eb4a0136-d577-4c62-acd3-33e933a91f8d.json"
+                  }
+                ],
+                "uri": "http://www.songkick.com/artists/258777-lynda-lemay?utm_source=27998&utm_medium=partner",
+                "id": 258777
+              }
+            }
+          ],
+          "venue": {
+            "metroArea": {
+              "displayName": "Paris",
+              "country": {
+                "displayName": "France"
+              },
+              "uri": "http://www.songkick.com/metro_areas/28909-france-paris?utm_source=27998&utm_medium=partner",
+              "id": 28909
+            },
+            "displayName": "L'Olympia",
+            "lat": 48.8700741,
+            "lng": 2.3277568,
+            "uri": "http://www.songkick.com/venues/35050-lolympia?utm_source=27998&utm_medium=partner",
+            "id": 35050
+          },
+          "ageRestriction": null
+        },
+        {
+          "type": "Concert",
+          "status": "ok",
+          "ageRestriction": null,
+          "start": {
+            "time": "21:30:00",
+            "date": "2014-06-10",
+            "datetime": "2014-06-10T21:30:00+0100"
+          },
+          "performance": [
+            {
+              "billing": "headline",
+              "billingIndex": 1,
+              "id": 37247569,
+              "artist": {
+                "identifier": [],
+                "uri": "http://www.songkick.com/artists/3783641-natascha-rogers-group?utm_source=27998&utm_medium=partner",
+                "id": 3783641,
+                "displayName": "Natascha Rogers Group"
+              },
+              "displayName": "Natascha Rogers Group"
+            }
+          ],
+          "venue": {
+            "lat": 48.8597622,
+            "lng": 2.3479128,
+            "metroArea": {
+              "country": {
+                "displayName": "France"
+              },
+              "uri": "http://www.songkick.com/metro_areas/28909-france-paris?utm_source=27998&utm_medium=partner",
+              "id": 28909,
+              "displayName": "Paris"
+            },
+            "uri": "http://www.songkick.com/venues/91522-le-baiser-sale?utm_source=27998&utm_medium=partner",
+            "id": 91522,
+            "displayName": "Le Baiser Salé"
+          },
+          "popularity": 0.0000090,
+          "location": {
+            "city": "Paris, France",
+            "lat": 48.8597622,
+            "lng": 2.3479128
+          },
+          "uri": "http://www.songkick.com/concerts/18776629-natascha-rogers-group-at-le-baiser-sale?utm_source=27998&utm_medium=partner",
+          "id": 18776629,
+          "displayName": "Natascha Rogers Group at Le Baiser Salé (June 10, 2014)"
+        }
+      ]
+    },
+    "perPage": 50,
+    "page": 1,
+    "totalEntries": 1909,
+    "clientLocation": {
+      "ip": "82.124.24.137",
+      "lat": 48.8667,
+      "lng": 2.3333,
+      "metroAreaId": 28909
+    }
+  }
+}

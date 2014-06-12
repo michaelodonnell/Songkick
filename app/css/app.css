@@ -1,0 +1,74 @@
+/* app css stylesheet */
+
+.menu {
+  list-style: none;
+  border-bottom: 0.1em solid black;
+  margin-bottom: 2em;
+  padding: 0 0 0.5em;
+}
+
+.menu:before {
+  /* content: "["; */
+}
+
+.menu:after {
+  /* content: "]"; */
+}
+
+.menu > li {
+  display: inline;
+}
+
+.menu > li:before {
+  content: "|";
+  padding-right: 0.3em;
+}
+
+.menu > li:nth-child(1):before {
+  content: "";
+  padding: 0;
+}
+
+html {
+  border-top: 12px solid #f80046;
+}
+
+body {
+  border: 0px;
+  margin: 0px 0px 0px 0px;
+  padding: 0px 0px 0px 0px;
+  text-align: center;
+  font-family: Arial, Verdana, Helvetica, sans-serif;
+  background-repeat: repeat-x;
+  background-color: #1e2126;
+}
+
+div.ng-scope {
+  width: 1001px;
+  margin: 0px auto;
+  text-align: left;
+  padding: 0px 0px 0px 0px;
+  border: 0px hidden #ffffff;
+  position: relative;
+  font-family: Arial, Verdana, Helvetica, sans-serif;
+}
+
+ul
+{
+  list-style-type: none;
+}
+
+.list
+{
+  color: #fff;
+}
+
+.col-md-2 {
+  width: 38%;
+  float: left;
+}
+
+.col-md-10 {
+  width: 62%;
+  float: right;
+}
